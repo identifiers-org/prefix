@@ -1,0 +1,3466 @@
+---
+-
+    namespace_prefix: chebi
+    provider_prefix: ebi
+    description: ChEBI (Chemical Entities of Biological Interest)
+    homepage: http://www.ebi.ac.uk/chebi/
+-
+    namespace_prefix: chebi
+    provider_prefix: ols
+    description: ChEBI through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/chebi
+-
+    namespace_prefix: chebi
+    provider_prefix: 
+    description: ChEBI through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/CHEBI
+-
+    namespace_prefix: ensembl
+    provider_prefix: ebi
+    description: Ensembl at Sanger/EMBL-EBI
+    homepage: http://www.ensembl.org/
+-
+    namespace_prefix: ensembl
+    provider_prefix: 
+    description: Ensembl US West mirror
+    homepage: http://uswest.ensembl.org/
+-
+    namespace_prefix: ensembl
+    provider_prefix: 
+    description: Ensembl US East mirror
+    homepage: http://useast.ensembl.org/
+-
+    namespace_prefix: ensembl
+    provider_prefix: 
+    description: Ensembl Asia mirror
+    homepage: http://asia.ensembl.org/
+-
+    namespace_prefix: ec-code
+    provider_prefix: ebi
+    description: IntEnZ (Integrated relational Enzyme database)
+    homepage: http://www.ebi.ac.uk/intenz/
+-
+    namespace_prefix: ec-code
+    provider_prefix: 
+    description: KEGG Ligand Database for Enzyme Nomenclature
+    homepage: http://www.genome.jp/dbget-bin/www_bfind?enzyme
+-
+    namespace_prefix: ec-code
+    provider_prefix: sib
+    description: Enzyme nomenclature database, ExPASy (Expert Protein Analysis System)
+    homepage: http://enzyme.expasy.org/
+-
+    namespace_prefix: ec-code
+    provider_prefix: 
+    description: ExploreEnz at Trinity College
+    homepage: http://www.enzyme-database.org/
+-
+    namespace_prefix: uniprot
+    provider_prefix: 
+    description: Universal Protein Resource
+    homepage: http://www.uniprot.org/
+-
+    namespace_prefix: uniprot
+    provider_prefix: 
+    description: Universal Protein Resource using Persistent URL system
+    homepage: http://purl.uniprot.org/
+-
+    namespace_prefix: uniprot
+    provider_prefix: ncbi
+    description: UniProt through NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/protein/
+-
+    namespace_prefix: taxonomy
+    provider_prefix: ncbi
+    description: NCBI Taxonomy
+    homepage: http://www.ncbi.nlm.nih.gov/Taxonomy/
+-
+    namespace_prefix: taxonomy
+    provider_prefix: 
+    description: Taxonomy through UniProt PURL
+    homepage: http://www.uniprot.org/taxonomy/
+-
+    namespace_prefix: taxonomy
+    provider_prefix: ebi
+    description: European Nucleotide Archive (ENA)
+    homepage: http://www.ebi.ac.uk/ena/
+-
+    namespace_prefix: taxonomy
+    provider_prefix: 
+    description: BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/NCBITAXON
+-
+    namespace_prefix: taxonomy
+    provider_prefix: 
+    description: Bio2RDF
+    homepage: http://taxonomy.bio2rdf.org/fct/
+-
+    namespace_prefix: taxonomy
+    provider_prefix: ols
+    description: NCBI Taxonomy through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/ncbitaxon/
+-
+    namespace_prefix: biomodels.db
+    provider_prefix: 
+    description: BioModels Database
+    homepage: http://www.ebi.ac.uk/biomodels/
+-
+    namespace_prefix: biomodels.db
+    provider_prefix: 
+    description: Caltech mirror
+    homepage: http://biomodels.caltech.edu/
+-
+    namespace_prefix: biomodels.db
+    provider_prefix: 
+    description: Bio2RDF
+    homepage: http://cu.biomodels.bio2rdf.org/fct/
+-
+    namespace_prefix: miriam.collection
+    provider_prefix: 
+    description: MIRIAM Resources (data collection)
+    homepage: http://www.ebi.ac.uk/miriam/
+-
+    namespace_prefix: icd
+    provider_prefix: 
+    description: International Statistical Classification of Diseases and Related Health Problems
+    homepage: http://www.who.int/classifications/icd/en/
+-
+    namespace_prefix: intact
+    provider_prefix: ebi
+    description: IntAct at EBI
+    homepage: http://www.ebi.ac.uk/intact/
+-
+    namespace_prefix: interpro
+    provider_prefix: ebi
+    description: InterPro
+    homepage: http://www.ebi.ac.uk/interpro/
+-
+    namespace_prefix: interpro
+    provider_prefix: 
+    description: Bio2RDF
+    homepage: http://interpro.bio2rdf.org/fct/
+-
+    namespace_prefix: kegg.pathway
+    provider_prefix: 
+    description: KEGG PATHWAY Database
+    homepage: http://www.genome.jp/kegg/pathway.html
+-
+    namespace_prefix: kegg.compound
+    provider_prefix: 
+    description: KEGG LIGAND Database
+    homepage: http://www.genome.jp/kegg/ligand.html
+-
+    namespace_prefix: kegg.reaction
+    provider_prefix: 
+    description: KEGG Reaction Database
+    homepage: http://www.genome.jp/kegg/reaction/
+-
+    namespace_prefix: pubmed
+    provider_prefix: ncbi
+    description: NCBI PubMed
+    homepage: http://www.ncbi.nlm.nih.gov/PubMed/
+-
+    namespace_prefix: pubmed
+    provider_prefix: hubmed
+    description: HubMed
+    homepage: http://www.hubmed.org/
+-
+    namespace_prefix: pubmed
+    provider_prefix: epmc
+    description: Europe PMC
+    homepage: http://europepmc.org/
+-
+    namespace_prefix: pubmed
+    provider_prefix: 
+    description: Bio2RDF
+    homepage: http://pubmed.bio2rdf.org/fct
+-
+    namespace_prefix: pubmed
+    provider_prefix: 
+    description: PubMed through Linkedlife data
+    homepage: http://linkedlifedata.com/
+-
+    namespace_prefix: omim
+    provider_prefix: 
+    description: OMIM at John Hopkins
+    homepage: http://omim.org/
+-
+    namespace_prefix: omim
+    provider_prefix: 
+    description: Bio2RDF
+    homepage: http://omim.bio2rdf.org/fct
+-
+    namespace_prefix: omim
+    provider_prefix: 
+    description: OMIM mirror at John Hopkins
+    homepage: http://mirror.omim.org/
+-
+    namespace_prefix: pirsf
+    provider_prefix: 
+    description: PIRSF
+    homepage: http://pir.georgetown.edu/pirsf/
+-
+    namespace_prefix: reactome
+    provider_prefix: 
+    description: Reactome, a curated knowledgebase of biological pathways
+    homepage: http://www.reactome.org/
+-
+    namespace_prefix: doi
+    provider_prefix: 
+    description: Digital Object Identifier
+    homepage: http://www.doi.org/
+-
+    namespace_prefix: doi
+    provider_prefix: 
+    description: CNRI DOI Resolver
+    homepage: http://www.handle.net/index.html
+-
+    namespace_prefix: doi
+    provider_prefix: 
+    description: DOAI (Digital Open Access Identifier) at CAPSH
+    homepage: http://doai.io/
+-
+    namespace_prefix: pdb
+    provider_prefix: rcsb
+    description: RCSB PDB
+    homepage: http://www.pdb.org/
+-
+    namespace_prefix: pdb
+    provider_prefix: ebi
+    description: Protein Databank in Europe (PDBe)
+    homepage: http://www.pdbe.org/
+-
+    namespace_prefix: pdb
+    provider_prefix: 
+    description: Proteopedia
+    homepage: http://www.proteopedia.org/
+-
+    namespace_prefix: pdb
+    provider_prefix: 
+    description: Protein Data Bank Japan (PDBj)
+    homepage: http://www.pdbj.org/
+-
+    namespace_prefix: pdb
+    provider_prefix: pdbj
+    description: Protein Databank through PDBsum
+    homepage: http://www.ebi.ac.uk/pdbsum/
+-
+    namespace_prefix: go
+    provider_prefix: ebi
+    description: QuickGO (Gene Ontology browser)
+    homepage: http://www.ebi.ac.uk/QuickGO/
+-
+    namespace_prefix: go
+    provider_prefix: amigo
+    description: AmiGO 2
+    homepage: http://amigo.geneontology.org/
+-
+    namespace_prefix: go
+    provider_prefix: 
+    description: GO Browser
+    homepage: http://www.informatics.jax.org/searches/GO_form.shtml
+-
+    namespace_prefix: go
+    provider_prefix: bptl
+    description: GO through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/GO
+-
+    namespace_prefix: go
+    provider_prefix: 
+    description: GO through PANTHER
+    homepage: http://www.pantherdb.org/
+-
+    namespace_prefix: go
+    provider_prefix: 
+    description: GO through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/go
+-
+    namespace_prefix: sgd
+    provider_prefix: 
+    description: SGD
+    homepage: http://www.yeastgenome.org/
+-
+    namespace_prefix: sgd
+    provider_prefix: 
+    description: Bio2RDF
+    homepage: http://sgd.bio2rdf.org/fct
+-
+    namespace_prefix: sbo
+    provider_prefix: 
+    description: SBO
+    homepage: http://www.ebi.ac.uk/sbo/
+-
+    namespace_prefix: sbo
+    provider_prefix: ols
+    description: SBO through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/sbo
+-
+    namespace_prefix: sbo
+    provider_prefix: bptl
+    description: SBO through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/SBO
+-
+    namespace_prefix: kegg.drug
+    provider_prefix: 
+    description: KEGG DRUG Database
+    homepage: http://www.genome.jp/kegg/drug/
+-
+    namespace_prefix: kegg.glycan
+    provider_prefix: 
+    description: KEGG GLYCAN Database
+    homepage: http://www.genome.jp/kegg/glycan/
+-
+    namespace_prefix: wormbase
+    provider_prefix: 
+    description: WormBase (Master)
+    homepage: http://www.wormbase.org/
+-
+    namespace_prefix: wormbase
+    provider_prefix: 
+    description: Bio2RDF
+    homepage: http://wormbase.bio2rdf.org/fct
+-
+    namespace_prefix: pfam
+    provider_prefix: 
+    description: Pfam at EMBL-EBI
+    homepage: http://pfam.xfam.org/
+-
+    namespace_prefix: insdc
+    provider_prefix: ncbi
+    description: INSDC through GenBank
+    homepage: http://www.ncbi.nlm.nih.gov/Genbank/
+-
+    namespace_prefix: insdc
+    provider_prefix: 
+    description: INSDC through DDBJ
+    homepage: http://www.ddbj.nig.ac.jp/
+-
+    namespace_prefix: insdc
+    provider_prefix: 
+    description: INSDC through European Nucleotide Archive (ENA)
+    homepage: http://www.ebi.ac.uk/ena/
+-
+    namespace_prefix: insdc
+    provider_prefix: 
+    description: INSDC through Nucleotide database at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/nuccore/
+-
+    namespace_prefix: flybase
+    provider_prefix: 
+    description: The FlyBase Database
+    homepage: http://flybase.org/
+-
+    namespace_prefix: wormpep
+    provider_prefix: 
+    description: Wormpep (Master)
+    homepage: http://www.wormbase.org/db/seq/protein
+-
+    namespace_prefix: prosite
+    provider_prefix: 
+    description: ExPASy PROSITE
+    homepage: http://www.expasy.org/prosite/
+-
+    namespace_prefix: pubchem.substance
+    provider_prefix: ncbi
+    description: NCBI PubChem Substance
+    homepage: http://pubchem.ncbi.nlm.nih.gov/
+-
+    namespace_prefix: pubchem.compound
+    provider_prefix: ncbi
+    description: NCBI PubChem Compound
+    homepage: http://pubchem.ncbi.nlm.nih.gov/
+-
+    namespace_prefix: arxiv
+    provider_prefix: 
+    description: Cornell University arXiv
+    homepage: http://arxiv.org/
+-
+    namespace_prefix: arrayexpress
+    provider_prefix: ebi
+    description: ArrayExpress
+    homepage: http://www.ebi.ac.uk/arrayexpress/
+-
+    namespace_prefix: mgd
+    provider_prefix: 
+    description: Mouse Genome Informatics Database
+    homepage: http://www.informatics.jax.org/
+-
+    namespace_prefix: sabiork.reaction
+    provider_prefix: 
+    description: SABIO-RK reaction
+    homepage: http://sabiork.h-its.org/
+-
+    namespace_prefix: refseq
+    provider_prefix: ncbi
+    description: The NCBI Reference Sequence database
+    homepage: http://www.ncbi.nlm.nih.gov/projects/RefSeq/
+-
+    namespace_prefix: tcdb
+    provider_prefix: 
+    description: TCDB
+    homepage: http://www.tcdb.org/
+-
+    namespace_prefix: uniparc
+    provider_prefix: ebi
+    description: UniProt Archive (UniParc)
+    homepage: http://www.ebi.ac.uk/uniparc/
+-
+    namespace_prefix: uniparc
+    provider_prefix: 
+    description: UniParc through UniProt
+    homepage: http://www.uniprot.org/uniparc/
+-
+    namespace_prefix: mint
+    provider_prefix: 
+    description: The Molecular INTeraction database (MINT)
+    homepage: http://mint.bio.uniroma2.it/mint/
+-
+    namespace_prefix: mint
+    provider_prefix: 
+    description: MINT subset through IntAct
+    homepage: http://www.ebi.ac.uk/intact/
+-
+    namespace_prefix: dip
+    provider_prefix: 
+    description: Database of interacting proteins
+    homepage: http://dip.doe-mbi.ucla.edu/
+-
+    namespace_prefix: signaling-gateway
+    provider_prefix: 
+    description: Signaling Gateway Molecule Pages
+    homepage: http://www.signaling-gateway.org/molecule
+-
+    namespace_prefix: resid
+    provider_prefix: 
+    description: RESID at Georgetown University
+    homepage: http://pir0.georgetown.edu/resid/
+-
+    namespace_prefix: rgd
+    provider_prefix: 
+    description: Rat Genome Database
+    homepage: http://rgd.mcw.edu/
+-
+    namespace_prefix: tair.protein
+    provider_prefix: 
+    description: The Arabidopsis Information Resource (TAIR) Protein
+    homepage: http://arabidopsis.org/index.jsp
+-
+    namespace_prefix: tair.gene
+    provider_prefix: 
+    description: The Arabidopsis Information Resource (TAIR) Gene
+    homepage: http://arabidopsis.org/index.jsp
+-
+    namespace_prefix: tair.locus
+    provider_prefix: 
+    description: The Arabidopsis Information Resource (TAIR) Locus
+    homepage: http://arabidopsis.org/index.jsp
+-
+    namespace_prefix: hmdb
+    provider_prefix: 
+    description: The Human Metabolome Database
+    homepage: http://www.hmdb.ca/
+-
+    namespace_prefix: lipidmaps
+    provider_prefix: 
+    description: Department of Bioengineering and the San Diego Supercomputer Center
+    homepage: http://www.lipidmaps.org
+-
+    namespace_prefix: peptideatlas
+    provider_prefix: 
+    description: PeptideAtlas at ISB
+    homepage: http://www.peptideatlas.org/
+-
+    namespace_prefix: geo
+    provider_prefix: ncbi
+    description: Gene Expression Omnibus at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/geo/
+-
+    namespace_prefix: eco
+    provider_prefix: ols
+    description: Evidence Codes via the Ontology Lookup Service (OLS)
+    homepage: http://www.ebi.ac.uk/ols/ontologies/eco
+-
+    namespace_prefix: eco
+    provider_prefix: bptl
+    description: Evidence Code Ontology through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/ECO
+-
+    namespace_prefix: mod
+    provider_prefix: ols
+    description: Protein modifications ontology via the Ontology Lookup Service (OLS)
+    homepage: http://www.ebi.ac.uk/ols/ontologies/mod
+-
+    namespace_prefix: mod
+    provider_prefix: bptl
+    description: Protein modifications ontology through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/PSIMOD
+-
+    namespace_prefix: sgd.pathways
+    provider_prefix: 
+    description: Saccharomyces cerevisiae pathways at SGD.
+    homepage: http://pathway.yeastgenome.org/
+-
+    namespace_prefix: biogrid
+    provider_prefix: 
+    description: BioGRID database of physical and genetic interactions
+    homepage: http://thebiogrid.org/
+-
+    namespace_prefix: merops
+    provider_prefix: 
+    description: MEROPS database at Sanger Institute
+    homepage: http://merops.sanger.ac.uk/index.htm
+-
+    namespace_prefix: panther.family
+    provider_prefix: 
+    description: PANTHER Family at USC (Los Angeles)
+    homepage: http://www.pantherdb.org/
+-
+    namespace_prefix: sprint
+    provider_prefix: 
+    description: PRINTS through SPRINT
+    homepage: http://www.bioinf.manchester.ac.uk/dbbrowser/sprint/
+-
+    namespace_prefix: ligandexpo
+    provider_prefix: 
+    description: Ligand Expo at RutgersRCSB PDB
+    homepage: http://ligand-depot.rutgers.edu/index.html
+-
+    namespace_prefix: ligandexpo
+    provider_prefix: 
+    description: Ligand Expo at Rutgers
+    homepage: http://ligand-expo.rcsb.org/
+-
+    namespace_prefix: aclame
+    provider_prefix: 
+    description: Aclame database of mobile genetic elements
+    homepage: http://aclame.ulb.ac.be/
+-
+    namespace_prefix: isbn
+    provider_prefix: 
+    description: ISBNDB - ISBN Database
+    homepage: http://isbndb.com/
+-
+    namespace_prefix: isbn
+    provider_prefix: 
+    description: ISBN database at WorldCat
+    homepage: http://www.worldcat.org/
+-
+    namespace_prefix: pride
+    provider_prefix: ebi
+    description: PRIDE at EBI
+    homepage: http://www.ebi.ac.uk/pride/
+-
+    namespace_prefix: 3dmet
+    provider_prefix: 
+    description: 3DMET database
+    homepage: http://www.3dmet.dna.affrc.go.jp/
+-
+    namespace_prefix: fma
+    provider_prefix: ols
+    description: Foundational Model of Anatomy via Ontology Lookup Service (OLS)
+    homepage: http://www.ebi.ac.uk/ols/ontologies/fma/
+-
+    namespace_prefix: fma
+    provider_prefix: bptl
+    description: Foundational Model of Anatomy through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/FMA
+-
+    namespace_prefix: matrixdb.association
+    provider_prefix: 
+    description: MatrixDB Association
+    homepage: http://matrixdb.univ-lyon1.fr/
+-
+    namespace_prefix: ncbigene
+    provider_prefix: ncbi
+    description: Entrez Gene (NCBI)
+    homepage: http://www.ncbi.nlm.nih.gov/gene
+-
+    namespace_prefix: ncbigene
+    provider_prefix: 
+    description: Bio2RDF
+    homepage: http://ncbigene.bio2rdf.org/fct
+-
+    namespace_prefix: kegg.genes
+    provider_prefix: 
+    description: KEGG GENES Database
+    homepage: http://www.genome.jp/kegg/genes.html
+-
+    namespace_prefix: brenda
+    provider_prefix: 
+    description: Brenda enzyme database
+    homepage: http://www.brenda-enzymes.org/
+-
+    namespace_prefix: pubchem.bioassay
+    provider_prefix: ncbi
+    description: PubChem Bioassay at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/sites/entrez?db=pcassay 
+-
+    namespace_prefix: pathwaycommons
+    provider_prefix: 
+    description: Pathway Commons
+    homepage: http://www.pathwaycommons.org/pc/
+-
+    namespace_prefix: hovergen
+    provider_prefix: 
+    description: Hovergen
+    homepage: http://pbil.univ-lyon1.fr/databases/hovergen.php
+-
+    namespace_prefix: mmmp:biomaps
+    provider_prefix: 
+    description: main webpage
+    homepage: http://www.mmmp.org/MMMP/public/biomap/listBiomap.mmmp
+-
+    namespace_prefix: wikipathways
+    provider_prefix: 
+    description: Wikipathways
+    homepage: http://www.wikipathways.org/
+-
+    namespace_prefix: macie
+    provider_prefix: 
+    description: MACiE database of mechanisms, annotation and classification in enzymes
+    homepage: http://www.ebi.ac.uk/thornton-srv/databases/MACiE/index.html
+-
+    namespace_prefix: mirbase
+    provider_prefix: 
+    description: miRBase Sequence Database
+    homepage: http://www.mirbase.org/
+-
+    namespace_prefix: zfin
+    provider_prefix: 
+    description: ZFIN Expression at University of Oregon
+    homepage: http://zfin.org
+-
+    namespace_prefix: hgnc
+    provider_prefix: 
+    description: HUGO Genome Nomenclature Committee
+    homepage: http://www.genenames.org
+-
+    namespace_prefix: hgnc
+    provider_prefix: 
+    description: Bio2RDF
+    homepage: http://hgnc.bio2rdf.org/fct
+-
+    namespace_prefix: so
+    provider_prefix: 
+    description: Sequence Ontology
+    homepage: http://www.sequenceontology.org/
+-
+    namespace_prefix: so
+    provider_prefix: bptl
+    description: Sequence Ontology through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/SO
+-
+    namespace_prefix: so
+    provider_prefix: 
+    description: Sequence Ontology through Ontology Lookup Service (OLS)
+    homepage: http://www.ebi.ac.uk/ols/ontologies/so
+-
+    namespace_prefix: rhea
+    provider_prefix: 
+    description: Rhea
+    homepage: http://www.rhea-db.org/
+-
+    namespace_prefix: unipathway
+    provider_prefix: 
+    description: UniPathway
+    homepage: http://www.grenoble.prabi.fr/obiwarehouse/unipathway
+-
+    namespace_prefix: chembl.compound
+    provider_prefix: ebi
+    description: ChEMBL compound database at EBI
+    homepage: https://www.ebi.ac.uk/chembldb/
+-
+    namespace_prefix: chembl.compound
+    provider_prefix: 
+    description: ChEMBL compound RDF
+    homepage: https://github.com/egonw/chembl.rdf
+-
+    namespace_prefix: chembl.compound
+    provider_prefix: 
+    description: ChEMBL compound RDF through EBI RDF Platform
+    homepage: https://www.ebi.ac.uk/rdf/services/chembl/
+-
+    namespace_prefix: chembl.target
+    provider_prefix: ebi
+    description: ChEMBL targets database at EBI
+    homepage: https://www.ebi.ac.uk/chembldb/
+-
+    namespace_prefix: chembl.target
+    provider_prefix: 
+    description: ChEMBL target RDF
+    homepage: https://github.com/egonw/chembl.rdf
+-
+    namespace_prefix: chembl.target
+    provider_prefix: 
+    description: ChEMBL target RDF through EBI RDF Platform
+    homepage: http://rdf.ebi.ac.uk/resource/chembl/
+-
+    namespace_prefix: sabiork.kineticrecord
+    provider_prefix: 
+    description: SABIO-RK Reaction Kinetics Database - Kinetic Dataset
+    homepage: http://sabiork.h-its.org/
+-
+    namespace_prefix: lgic
+    provider_prefix: ebi
+    description: Ligand-Gated Ion Channel database at EBI
+    homepage: http://www.ebi.ac.uk/compneur-srv/LGICdb/LGICdb.php
+-
+    namespace_prefix: atc
+    provider_prefix: 
+    description: Anatomical Therapeutic Chemical Index at WHO
+    homepage: http://www.whocc.no/atc_ddd_index/
+-
+    namespace_prefix: pharmgkb.pathways
+    provider_prefix: 
+    description: PharmGKB at Stanford
+    homepage: http://www.pharmgkb.org/
+-
+    namespace_prefix: pharmgkb.disease
+    provider_prefix: 
+    description: PharmGKB Disease at Stanford
+    homepage: http://www.pharmgkb.org/
+-
+    namespace_prefix: pharmgkb.drug
+    provider_prefix: 
+    description: PharmGKB Drug at Stanford
+    homepage: http://www.pharmgkb.org/
+-
+    namespace_prefix: ttd.drug
+    provider_prefix: 
+    description: Therapeutic Target Database Drug
+    homepage: http://bidd.nus.edu.sg/group/ttd/ttd.asp
+-
+    namespace_prefix: ttd.target
+    provider_prefix: 
+    description: Therapeutic Target Database Target
+    homepage: http://bidd.nus.edu.sg/group/ttd/ttd.asp
+-
+    namespace_prefix: neurondb
+    provider_prefix: 
+    description: NeuronDB at SenseLab
+    homepage: http://senselab.med.yale.edu/NeuronDB/
+-
+    namespace_prefix: neuromorpho
+    provider_prefix: 
+    description: NeuroMorpho
+    homepage: http://neuromorpho.org/index.jsp
+-
+    namespace_prefix: chemidplus
+    provider_prefix: 
+    description: ChemIDplus at National Library of Medicine
+    homepage: http://chem.sis.nlm.nih.gov/chemidplus/chemidheavy.jsp
+-
+    namespace_prefix: biosystems
+    provider_prefix: 
+    description: BioSystems database at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/biosystems/
+-
+    namespace_prefix: ctd.chemical
+    provider_prefix: 
+    description: Comparative Toxicogenomics Database (Chemical)
+    homepage: http://ctdbase.org/
+-
+    namespace_prefix: ctd.disease
+    provider_prefix: 
+    description: Comparative Toxicogenomics Database (Disease)
+    homepage: http://ctdbase.org/
+-
+    namespace_prefix: ctd.gene
+    provider_prefix: 
+    description: Comparative Toxicogenomics Database (Gene)
+    homepage: http://ctdbase.org/
+-
+    namespace_prefix: bionumbers
+    provider_prefix: 
+    description: BioNumbers database
+    homepage: http://www.bionumbers.hms.harvard.edu/search.aspx
+-
+    namespace_prefix: drugbank
+    provider_prefix: 
+    description: DrugBank drug information
+    homepage: http://www.drugbank.ca/
+-
+    namespace_prefix: drugbank
+    provider_prefix: 
+    description: Bio2RDF
+    homepage: http://drugbank.bio2rdf.org/fct/
+-
+    namespace_prefix: t3db
+    provider_prefix: 
+    description: Toxin and Toxin Target Database
+    homepage: http://www.t3db.org/
+-
+    namespace_prefix: smpdb
+    provider_prefix: 
+    description: Small Molecule Pathway Database
+    homepage: http://www.smpdb.ca/pathways
+-
+    namespace_prefix: phosphosite.protein
+    provider_prefix: 
+    description: PhosphoSite
+    homepage: http://www.phosphosite.org/homeAction.do
+-
+    namespace_prefix: genedb
+    provider_prefix: 
+    description: GeneDB at Sanger Institute
+    homepage: http://www.genedb.org/
+-
+    namespace_prefix: biomodels.teddy
+    provider_prefix: 
+    description: TEDDY through BioPortal
+    homepage: http://teddyontology.sourceforge.net/
+-
+    namespace_prefix: biomodels.teddy
+    provider_prefix: 
+    description: TEDDY though OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/teddy
+-
+    namespace_prefix: biomodels.kisao
+    provider_prefix: 
+    description: 'KiSAO via NCBO''s Bioportal'
+    homepage: http://bioportal.bioontology.org/ontologies/KISAO
+-
+    namespace_prefix: biomodels.kisao
+    provider_prefix: 
+    description: KiSAO through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/kisao
+-
+    namespace_prefix: psimi
+    provider_prefix: ols
+    description: Molecular Interactions Ontology through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/mi
+-
+    namespace_prefix: cl
+    provider_prefix: ols
+    description: Cell Type Ontology through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/cl
+-
+    namespace_prefix: cl
+    provider_prefix: bptl
+    description: Cell Type Ontology through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/CL
+-
+    namespace_prefix: bto
+    provider_prefix: ols
+    description: Brenda Tissue Ontology through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/bto
+-
+    namespace_prefix: bto
+    provider_prefix: bptl
+    description: Brenda Tissue Ontology through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/BTO
+-
+    namespace_prefix: pato
+    provider_prefix: ols
+    description: PATO through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/pato
+-
+    namespace_prefix: pato
+    provider_prefix: bptl
+    description: PATO through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/PATO
+-
+    namespace_prefix: pdb-ccd
+    provider_prefix: 
+    description: Protein Data Bank Chemical Component Dictionary at EBI
+    homepage: http://www.ebi.ac.uk/pdbe-srv/pdbechem/
+-
+    namespace_prefix: glycomedb
+    provider_prefix: 
+    description: GlycomeDB carbohydrate structure database
+    homepage: http://www.glycome-db.org/showMenu.action?major=database
+-
+    namespace_prefix: lipidbank
+    provider_prefix: 
+    description: LipidBank the Lipid database
+    homepage: http://lipidbank.jp/index.html
+-
+    namespace_prefix: kegg.orthology
+    provider_prefix: 
+    description: KEGG Orthology Database
+    homepage: http://www.genome.jp/kegg/ko.html
+-
+    namespace_prefix: prodom
+    provider_prefix: 
+    description: ProDom Protein Domain Database
+    homepage: http://prodom.prabi.fr/prodom/current/html/home.php
+-
+    namespace_prefix: smart
+    provider_prefix: 
+    description: SMART (Simple Modular Architecture Research Tool)
+    homepage: http://smart.embl-heidelberg.de/
+-
+    namespace_prefix: cdd
+    provider_prefix: ncbi
+    description: Conserved Domain Database at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/sites/entrez?db=cdd
+-
+    namespace_prefix: ro
+    provider_prefix: 
+    description: OBO Relation Ontology through OntoBee
+    homepage: http://obofoundry.org/ontology/ro.html
+-
+    namespace_prefix: ro
+    provider_prefix: ols
+    description: OBO Relation Ontology through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/ro
+-
+    namespace_prefix: mmdb
+    provider_prefix: 
+    description: MMDB at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/sites/entrez?db=structure
+-
+    namespace_prefix: imex
+    provider_prefix: 
+    description: IMEx Consortium running at EBI
+    homepage: http://www.imexconsortium.org/
+-
+    namespace_prefix: imex
+    provider_prefix: 
+    description: IMEx Consortium though Intact
+    homepage: http://www.ebi.ac.uk/intact/
+-
+    namespace_prefix: irefweb
+    provider_prefix: 
+    description: iRefWeb Protein Interaction Reference Index
+    homepage: http://wodaklab.org/iRefWeb/
+-
+    namespace_prefix: mpid
+    provider_prefix: 
+    description: Microbial Protein Interaction Database
+    homepage: http://www.jcvi.org/mpidb/about.php
+-
+    namespace_prefix: mpid
+    provider_prefix: 
+    description: Microbial Protein Interaction Database subset through IntAct
+    homepage: http://www.ebi.ac.uk/intact/
+-
+    namespace_prefix: phosphosite.residue
+    provider_prefix: 
+    description: PhosphoSite Residue
+    homepage: http://www.phosphosite.org/homeAction.do
+-
+    namespace_prefix: neurolex
+    provider_prefix: 
+    description: NeuroLex Neuroscience Lexicon
+    homepage: http://www.neurolex.org/wiki/Main_Page
+-
+    namespace_prefix: neurolex
+    provider_prefix: 
+    description: 'NeuroLex through NCBO''s BioPortal'
+    homepage: http://bioportal.bioontology.org/ontologies/BIRNLEX
+-
+    namespace_prefix: obi
+    provider_prefix: 
+    description: OBI through Ontobee
+    homepage: http://www.ontobee.org/
+-
+    namespace_prefix: obi
+    provider_prefix: 
+    description: Ontology for Biomedical Investigations through Bioportal
+    homepage: http://bioportal.bioontology.org/ontologies/OBI
+-
+    namespace_prefix: obi
+    provider_prefix: 
+    description: OBI through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/obi
+-
+    namespace_prefix: sabiork.ec
+    provider_prefix: 
+    description: SABIO-RK Reaction Kinetics Database - Enzyme Classification (EC)
+    homepage: http://sabiork.h-its.org/
+-
+    namespace_prefix: opb
+    provider_prefix: 
+    description: Ontology of Physics for Biology through Bioportal
+    homepage: http://bioportal.bioontology.org/ontologies/OPB
+-
+    namespace_prefix: jws
+    provider_prefix: 
+    description: JWS Online Model Repository at Stellenbosch
+    homepage: http://jjj.biochem.sun.ac.za/models/
+-
+    namespace_prefix: jws
+    provider_prefix: 
+    description: JWS Online Model Repository at Amsterdam
+    homepage: http://jjj.bio.vu.nl/models/
+-
+    namespace_prefix: jws
+    provider_prefix: 
+    description: JWS Online Model Repository at Manchester
+    homepage: http://jjj.mib.ac.uk/index.html
+-
+    namespace_prefix: modeldb
+    provider_prefix: 
+    description: ModelDB at SenseLab
+    homepage: http://senselab.med.yale.edu/ModelDB/
+-
+    namespace_prefix: subtiwiki
+    provider_prefix: 
+    description: SubtiWiki website
+    homepage: http://www.subtiwiki.uni-goettingen.de/wiki/index.php/Main_Page
+-
+    namespace_prefix: pid.pathway
+    provider_prefix: 
+    description: NCI Pathway Interaction Database (Pathway)
+    homepage: http://pid.nci.nih.gov/
+-
+    namespace_prefix: doqcs.model
+    provider_prefix: 
+    description: Database of Quantitative Cellular Signaling (DOQCS) - Model Access
+    homepage: http://doqcs.ncbs.res.in/
+-
+    namespace_prefix: doqcs.pathway
+    provider_prefix: 
+    description: Database of Quantitative Cellular Signaling (DOQCS) - Pathway Access
+    homepage: http://doqcs.ncbs.res.in/
+-
+    namespace_prefix: uo
+    provider_prefix: ols
+    description: Unit Ontology via Ontology Lookup Service
+    homepage: http://www.ebi.ac.uk/ols/ontologies/uo
+-
+    namespace_prefix: uo
+    provider_prefix: bptl
+    description: Unit Ontology through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/UO
+-
+    namespace_prefix: clinicaltrials
+    provider_prefix: 
+    description: ClinicalTrials.gov at NIH
+    homepage: http://clinicaltrials.gov/
+-
+    namespace_prefix: clinicaltrials
+    provider_prefix: 
+    description: Bio2RDF
+    homepage: http://clinicaltrials.bio2rdf.org/fct
+-
+    namespace_prefix: chemspider
+    provider_prefix: 
+    description: ChemSpider at RSC
+    homepage: http://www.chemspider.com/
+-
+    namespace_prefix: ncit
+    provider_prefix: 
+    description: NCIt at National Cancer Institute
+    homepage: http://ncit.nci.nih.gov/
+-
+    namespace_prefix: biocatalogue.service
+    provider_prefix: 
+    description: BioCatalogue at EMBL-EBI
+    homepage: http://www.biocatalogue.org/
+-
+    namespace_prefix: pr
+    provider_prefix: 
+    description: Protein Ontology at Georgetown
+    homepage: http://pir.georgetown.edu/pro/pro.shtml
+-
+    namespace_prefix: pr
+    provider_prefix: bptl
+    description: Protein Ontology through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/PR
+-
+    namespace_prefix: pr
+    provider_prefix: 
+    description: Protein Ontology through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/pr
+-
+    namespace_prefix: omia
+    provider_prefix: 
+    description: OMIA at University of Sydney
+    homepage: http://omia.angis.org.au/
+-
+    namespace_prefix: chembank
+    provider_prefix: 
+    description: ChemBank at Broad Institute
+    homepage: http://chembank.broadinstitute.org/
+-
+    namespace_prefix: csa
+    provider_prefix: 
+    description: CSA at EBI
+    homepage: http://www.ebi.ac.uk/thornton-srv/databases/CSA/
+-
+    namespace_prefix: cgd
+    provider_prefix: 
+    description: Candida Genome Database at Stanford University
+    homepage: http://www.candidagenome.org/
+-
+    namespace_prefix: antweb
+    provider_prefix: 
+    description: AntWeb at California Academy of Sciences
+    homepage: http://www.antweb.org/
+-
+    namespace_prefix: pmc
+    provider_prefix: 
+    description: PubMed Central
+    homepage: http://www.ncbi.nlm.nih.gov/pmc/
+-
+    namespace_prefix: pmc
+    provider_prefix: epmc
+    description: Europe PMC
+    homepage: http://europepmc.org/
+-
+    namespace_prefix: pmc
+    provider_prefix: 
+    description: PubMedCentral Canada
+    homepage: http://pubmedcentralcanada.ca/pmcc
+-
+    namespace_prefix: amoebadb
+    provider_prefix: 
+    description: AmoebaDB at EuPathDB
+    homepage: http://amoebadb.org/amoeba/
+-
+    namespace_prefix: cryptodb
+    provider_prefix: 
+    description: CryptoDB at EuPathDB
+    homepage: http://cryptodb.org/cryptodb/
+-
+    namespace_prefix: plasmodb
+    provider_prefix: 
+    description: PlasmoDB at EuPathDB
+    homepage: http://plasmodb.org/plasmo/
+-
+    namespace_prefix: giardiadb
+    provider_prefix: 
+    description: GiardiaDB at EuPathDB
+    homepage: http://giardiadb.org/giardiadb/
+-
+    namespace_prefix: microsporidia
+    provider_prefix: 
+    description: MicrosporidiaDB at EuPathDB
+    homepage: http://microsporidiadb.org/micro/
+-
+    namespace_prefix: toxoplasma
+    provider_prefix: 
+    description: ToxoDB at EuPathDB
+    homepage: http://toxodb.org/toxo/
+-
+    namespace_prefix: trichdb
+    provider_prefix: 
+    description: TrichDB at EuPathDB
+    homepage: http://trichdb.org/trichdb/
+-
+    namespace_prefix: tritrypdb
+    provider_prefix: 
+    description: TriTrypDB at EuPathDB
+    homepage: http://tritrypdb.org/tritrypdb/
+-
+    namespace_prefix: bdgp.insertion
+    provider_prefix: 
+    description: BDGP Gene Disruption Project
+    homepage: http://flypush.imgen.bcm.tmc.edu/pscreen/
+-
+    namespace_prefix: beetlebase
+    provider_prefix: 
+    description: BeetleBase at Kansas State University
+    homepage: http://beetlebase.org/
+-
+    namespace_prefix: bold.taxonomy
+    provider_prefix: 
+    description: BOLD taxonomy browser
+    homepage: http://www.boldsystems.org/
+-
+    namespace_prefix: dbest
+    provider_prefix: ncbi
+    description: dbEST at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/nucest
+-
+    namespace_prefix: dbest
+    provider_prefix: ebi
+    description: dbEST through European Nucleotide Archive (ENA)
+    homepage: http://www.ebi.ac.uk/ena
+-
+    namespace_prefix: dbest
+    provider_prefix: 
+    description: dbEST through DNA Data Bank of Japan (DDBJ)
+    homepage: http://www.ddbj.nig.ac.jp/
+-
+    namespace_prefix: dbprobe
+    provider_prefix: ncbi
+    description: dbProbe at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/sites/entrez?db=probe
+-
+    namespace_prefix: dbsnp
+    provider_prefix: ncbi
+    description: dbSNP at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/sites/entrez?db=snp
+-
+    namespace_prefix: unists
+    provider_prefix: ncbi
+    description: UniSTS at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/sites/entrez?db=unists
+-
+    namespace_prefix: ecogene
+    provider_prefix: 
+    description: EcoGene at University of Miami
+    homepage: http://ecogene.org/
+-
+    namespace_prefix: gabi
+    provider_prefix: 
+    description: GABI at Max Planck
+    homepage: http://www.gabipd.org/
+-
+    namespace_prefix: greengenes
+    provider_prefix: 
+    description: GreenGenes at Lawrence Berkeley
+    homepage: http://greengenes.lbl.gov/
+-
+    namespace_prefix: grin.taxonomy
+    provider_prefix: 
+    description: GRIN at Maryland
+    homepage: http://www.ars-grin.gov/cgi-bin/npgs/html/index.pl?language=en
+-
+    namespace_prefix: hinv.locus
+    provider_prefix: 
+    description: H-Invitational Locus View at BIRC
+    homepage: http://h-invitational.jp/hinv/ahg-db/index.jsp
+-
+    namespace_prefix: hinv.transcript
+    provider_prefix: 
+    description: H-Invitational Transcript View at BIRC
+    homepage: http://h-invitational.jp/hinv/ahg-db/index.jsp
+-
+    namespace_prefix: hinv.protein
+    provider_prefix: 
+    description: H-Invitational Protein View at BIRC
+    homepage: http://h-invitational.jp/hinv/ahg-db/index.jsp
+-
+    namespace_prefix: homd.seq
+    provider_prefix: 
+    description: HOMD sequence metainformation at The Forsyth Institute
+    homepage: http://www.homd.org/index.php
+-
+    namespace_prefix: homd.taxon
+    provider_prefix: 
+    description: HOMD taxon information at The Forsyth Institute
+    homepage: http://www.homd.org/index.php
+-
+    namespace_prefix: ird.segment
+    provider_prefix: 
+    description: IRD at BioHealthBase
+    homepage: http://www.fludb.org/
+-
+    namespace_prefix: isfinder
+    provider_prefix: 
+    description: IS Finder at CNRS
+    homepage: http://www-is.biotoul.fr/i
+-
+    namespace_prefix: jcm
+    provider_prefix: 
+    description: JCM at RIKEN BioResource Center
+    homepage: http://www.jcm.riken.go.jp/
+-
+    namespace_prefix: img.taxon
+    provider_prefix: 
+    description: Integrated Microbial Genomes Taxon at Lawrence Berkeley National Laboratory
+    homepage: http://img.jgi.doe.gov/
+-
+    namespace_prefix: img.gene
+    provider_prefix: 
+    description: Integrated Microbial Genomes Taxon at Lawrence Berkeley National Laboratory
+    homepage: http://img.jgi.doe.gov/
+-
+    namespace_prefix: maizegdb.locus
+    provider_prefix: 
+    description: MaizeGDB at Missouri
+    homepage: http://www.maizegdb.org/
+-
+    namespace_prefix: mycobank
+    provider_prefix: 
+    description: MycoBank at Fungal Biodiversity Centre
+    homepage: http://www.mycobank.org/
+-
+    namespace_prefix: nbrc
+    provider_prefix: 
+    description: NBRC Catalogue at National Institute of Technology Evaluation
+    homepage: http://www.nbrc.nite.go.jp/e/index.html
+-
+    namespace_prefix: pseudomonas
+    provider_prefix: 
+    description: Pseudomonas Genome Database at Simon Fraser University
+    homepage: http://www.pseudomonas.com/
+-
+    namespace_prefix: gramene.protein
+    provider_prefix: 
+    description: Gramene Protein at Cold Spring Harbor
+    homepage: http://www.gramene.org/
+-
+    namespace_prefix: gramene.gene
+    provider_prefix: 
+    description: Gramene Genes at Cold Spring Harbor
+    homepage: http://www.gramene.org/
+-
+    namespace_prefix: gramene.taxonomy
+    provider_prefix: 
+    description: Gramene Taxonomy at Cold Spring Harbor
+    homepage: http://www.gramene.org/
+-
+    namespace_prefix: gramene.qtl
+    provider_prefix: 
+    description: Gramene Quantitative Trait Loci at Cold Spring Harbor
+    homepage: http://www.gramene.org/
+-
+    namespace_prefix: sgn
+    provider_prefix: 
+    description: Sol Genomics Network at Boyce Thompson Institute for Plant Research
+    homepage: http://solgenomics.net/
+-
+    namespace_prefix: xenbase
+    provider_prefix: 
+    description: Xenbase at University of Calgary
+    homepage: http://www.xenbase.org/
+-
+    namespace_prefix: bioportal
+    provider_prefix: bptl
+    description: BioPortal at National Center for Biomedical Ontology
+    homepage: http://bioportal.bioontology.org/
+-
+    namespace_prefix: miriam.resource
+    provider_prefix: 
+    description: MIRIAM Registry (resources)
+    homepage: http://www.ebi.ac.uk/miriam/
+-
+    namespace_prefix: edam
+    provider_prefix: 
+    description: EDAM through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/EDAM
+-
+    namespace_prefix: edam
+    provider_prefix: 
+    description: EDAM through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/edam
+-
+    namespace_prefix: pmdb
+    provider_prefix: 
+    description: Protein Model Database at University of Rome
+    homepage: https://bioinformatics.cineca.it/PMDB/
+-
+    namespace_prefix: arachnoserver
+    provider_prefix: 
+    description: ArachnoServer at Brisbane
+    homepage: http://www.arachnoserver.org/
+-
+    namespace_prefix: biocyc
+    provider_prefix: 
+    description: BioCyc at SRI International
+    homepage: http://biocyc.org
+-
+    namespace_prefix: cazy
+    provider_prefix: 
+    description: CAZy at CNRS
+    homepage: http://www.cazy.org/
+-
+    namespace_prefix: goa
+    provider_prefix: 
+    description: GOA through QuickGO
+    homepage: http://www.ebi.ac.uk/GOA/
+-
+    namespace_prefix: paleodb
+    provider_prefix: 
+    description: PaleoDB at Macquarie University
+    homepage: http://paleodb.org/
+-
+    namespace_prefix: compulyeast
+    provider_prefix: 
+    description: Compluyeast database at Universidad Complutense Madrid
+    homepage: http://compluyeast2dpage.dacya.ucm.es/
+-
+    namespace_prefix: disprot
+    provider_prefix: 
+    description: DisProt at Indiana University
+    homepage: http://www.disprot.org/
+-
+    namespace_prefix: echobase
+    provider_prefix: 
+    description: EchoBASE at the University of York
+    homepage: http://www.york.ac.uk/
+-
+    namespace_prefix: eggnog
+    provider_prefix: 
+    description: eggNOG Version 3 at European Molecular Biology Laboratory
+    homepage: http://eggnog.embl.de/version_3.0/
+-
+    namespace_prefix: ensembl.bacteria
+    provider_prefix: ebi
+    description: Ensembl Bacteria at EBI
+    homepage: http://bacteria.ensembl.org/
+-
+    namespace_prefix: ensembl.protist
+    provider_prefix: ebi
+    description: Ensembl Protists at EBI
+    homepage: http://protists.ensembl.org
+-
+    namespace_prefix: ensembl.metazoa
+    provider_prefix: ebi
+    description: Enzembl Metazoa at EBI
+    homepage: http://metazoa.ensembl.org/
+-
+    namespace_prefix: ensembl.plant
+    provider_prefix: ebi
+    description: Enzembl Plants at EBI
+    homepage: http://plants.ensembl.org/
+-
+    namespace_prefix: ensembl.fungi
+    provider_prefix: ebi
+    description: Enzembl Fungi at EBI
+    homepage: http://fungi.ensembl.org/
+-
+    namespace_prefix: hcvdb
+    provider_prefix: 
+    description: HCVDB at CNRS
+    homepage: http://euhcvdb.ibcp.fr/euHCVdb/
+-
+    namespace_prefix: genatlas
+    provider_prefix: 
+    description: Genatlas at Paris Descartes University
+    homepage: http://genatlas.medecine.univ-paris5.fr/
+-
+    namespace_prefix: cath.superfamily
+    provider_prefix: 
+    description: CATH superfamily at UCL
+    homepage: http://www.cathdb.info/
+-
+    namespace_prefix: cath.domain
+    provider_prefix: 
+    description: CATH domain at UCL
+    homepage: http://www.cathdb.info/
+-
+    namespace_prefix: genefarm
+    provider_prefix: 
+    description: GeneFarm at Unité de Recherche en Génomique Végétale
+    homepage: http://urgi.versailles.inra.fr/Genefarm/
+-
+    namespace_prefix: gpcrdb
+    provider_prefix: 
+    description: GPCRDB at Radboud University
+    homepage: http://www.gpcrdb.org/
+-
+    namespace_prefix: hogenom
+    provider_prefix: 
+    description: HOGENOM at CNRS
+    homepage: http://pbil.univ-lyon1.fr/databases/hogenom/
+-
+    namespace_prefix: genetree
+    provider_prefix: 
+    description: GeneTree at Ensembl
+    homepage: http://www.ensembl.org/
+-
+    namespace_prefix: hssp
+    provider_prefix: 
+    description: HSSP at EMBL
+    homepage: http://swift.cmbi.kun.nl/swift/hssp/
+-
+    namespace_prefix: hssp
+    provider_prefix: 
+    description: HSSP at CMBI
+    homepage: ftp://ftp.cmbi.ru.nl/pub/molbio/data/hssp/
+-
+    namespace_prefix: myco.tuber
+    provider_prefix: 
+    description: MycoBrowser tuberculosis at Global Health Institute
+    homepage: http://tuberculist.epfl.ch/
+-
+    namespace_prefix: myco.lepra
+    provider_prefix: 
+    description: MycoBrowser leprae at Global Health Institute
+    homepage: http://mycobrowser.epfl.ch/leprosy.html
+-
+    namespace_prefix: myco.marinum
+    provider_prefix: 
+    description: MycoBrowser marinum at Global Health Institute
+    homepage: http://mycobrowser.epfl.ch/marinolist.html
+-
+    namespace_prefix: myco.smeg
+    provider_prefix: 
+    description: MycoBrowser smegmatis at Global Health Institute
+    homepage: http://mycobrowser.epfl.ch/smegmalist.html
+-
+    namespace_prefix: orphanet
+    provider_prefix: 
+    description: Orphanet at Inserm
+    homepage: http://www.orpha.net/consor/
+-
+    namespace_prefix: orphanet
+    provider_prefix: 
+    description: Bio2RDF
+    homepage: http://orphanet.bio2rdf.org/fct
+-
+    namespace_prefix: orthodb
+    provider_prefix: 
+    description: OrthoDB at Swiss Institute of Bioinformatics
+    homepage: http://cegg.unige.ch/orthodb4
+-
+    namespace_prefix: peroxibase
+    provider_prefix: 
+    description: Peroxibase at University of Geneva
+    homepage: http://peroxibase.toulouse.inra.fr/
+-
+    namespace_prefix: phylomedb
+    provider_prefix: 
+    description: PhylomeDB at Centro de Investigación Príncipe Felipe
+    homepage: http://phylomedb.org/
+-
+    namespace_prefix: pmap.substratedb
+    provider_prefix: 
+    description: SubstrateDB at The Burnham Institute for Medical Research
+    homepage: http://substrate.burnham.org/
+-
+    namespace_prefix: pmap.cutdb
+    provider_prefix: 
+    description: CutDB at The Burnham Institute for Medical Research
+    homepage: http://cutdb.burnham.org
+-
+    namespace_prefix: protclustdb
+    provider_prefix: 
+    description: ProtClustDB at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/proteinclusters?db=proteinclusters
+-
+    namespace_prefix: pmp
+    provider_prefix: 
+    description: PMP at University of Basel
+    homepage: http://www.proteinmodelportal.org/
+-
+    namespace_prefix: protonet.proteincard
+    provider_prefix: 
+    description: ProtoNet at Hebrew University
+    homepage: http://www.protonet.cs.huji.ac.il/
+-
+    namespace_prefix: protonet.cluster
+    provider_prefix: 
+    description: ProtoNet at Hebrew University
+    homepage: http://www.protonet.cs.huji.ac.il/
+-
+    namespace_prefix: rebase
+    provider_prefix: 
+    description: REBASE at New England Biolabs
+    homepage: http://rebase.neb.com/rebase/
+-
+    namespace_prefix: swiss-model
+    provider_prefix: 
+    description: SWISS-MODEL at SIB Swiss Institute of Bioinformatics
+    homepage: http://swissmodel.expasy.org/
+-
+    namespace_prefix: vectorbase
+    provider_prefix: ebi
+    description: Vectorbase at EMBL-EBI
+    homepage: http://www.vectorbase.org/
+-
+    namespace_prefix: doid
+    provider_prefix: bptl
+    description: Human Disease Ontology through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/DOID
+-
+    namespace_prefix: doid
+    provider_prefix: ols
+    description: Human Disease Ontology through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/doid
+-
+    namespace_prefix: doid
+    provider_prefix: 
+    description: Human Disease Ontology at Northwestern University
+    homepage: http://disease-ontology.org/
+-
+    namespace_prefix: cco
+    provider_prefix: ols
+    description: Cell Cycle Ontology through OLS
+    homepage: http://www.ebi.ac.uk/ontology-lookup/browse.do?ontName=CCO
+-
+    namespace_prefix: mirbase.mature
+    provider_prefix: 
+    description: miRBase
+    homepage: http://www.mirbase.org/
+-
+    namespace_prefix: nextprot
+    provider_prefix: 
+    description: nextProt at Swiss Institute of Bioinformatics
+    homepage: http://www.nextprot.org/
+-
+    namespace_prefix: cas
+    provider_prefix: 
+    description: CAS through Common Chemistry
+    homepage: http://commonchemistry.org
+-
+    namespace_prefix: kegg.genome
+    provider_prefix: 
+    description: KEGG Genome Database
+    homepage: http://www.genome.jp/kegg/catalog/org_list.html
+-
+    namespace_prefix: kegg.metagenome
+    provider_prefix: 
+    description: KEGG Metagenome Database
+    homepage: http://www.genome.jp/kegg/catalog/org_list3.html
+-
+    namespace_prefix: narcis
+    provider_prefix: 
+    description: NARCIS at The Hague
+    homepage: http://www.narcis.nl/?Language=en
+-
+    namespace_prefix: jcsd
+    provider_prefix: 
+    description: Japan Chemical Substance Dictionary
+    homepage: http://jglobal.jst.go.jp/en/
+-
+    namespace_prefix: pw
+    provider_prefix: 
+    description: Pathway Ontology at Rat Genome Database
+    homepage: http://rgd.mcw.edu/rgdweb/ontology/search.html
+-
+    namespace_prefix: pw
+    provider_prefix: ols
+    description: Pathway Ontology through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/pw
+-
+    namespace_prefix: pw
+    provider_prefix: bptl
+    description: Pathway Ontology through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/PW
+-
+    namespace_prefix: insdc.sra
+    provider_prefix: ncbi
+    description: Sequence Read Archive at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/sra
+-
+    namespace_prefix: insdc.sra
+    provider_prefix: ebi
+    description: European Nucleotide Archive (ENA)
+    homepage: http://www.ebi.ac.uk/ena
+-
+    namespace_prefix: insdc.sra
+    provider_prefix: 
+    description: DDBJ Sequence Read Archive (DRA)
+    homepage: http://trace.ddbj.nig.ac.jp/dra/
+-
+    namespace_prefix: scretf
+    provider_prefix: 
+    description: ScerTF at Washington University
+    homepage: http://stormo.wustl.edu/ScerTF/
+-
+    namespace_prefix: pharmgkb.gene
+    provider_prefix: 
+    description: PharmGKB Gene at Stanford
+    homepage: http://www.pharmgkb.org/
+-
+    namespace_prefix: mirnest
+    provider_prefix: 
+    description: miRNEST at Adam Mickiewicz University
+    homepage: http://rhesus.amu.edu.pl/mirnest/copy/
+-
+    namespace_prefix: napp
+    provider_prefix: 
+    description: NAPP at CNRS
+    homepage: http://napp.u-psud.fr/
+-
+    namespace_prefix: noncodev3
+    provider_prefix: 
+    description: NONCODE at Chinese Academy of Sciences
+    homepage: http://www.noncode.org/
+-
+    namespace_prefix: virsirna
+    provider_prefix: 
+    description: VIRsiRNA at Institute of Microbial Technology
+    homepage: http://crdd.osdd.net/servers/virsirnadb
+-
+    namespace_prefix: elm
+    provider_prefix: 
+    description: ELM at EMBL (Germany)
+    homepage: http://elm.eu.org/
+-
+    namespace_prefix: mimodb
+    provider_prefix: 
+    description: BDB at University of Electronic Science and Technology of China
+    homepage: http://immunet.cn/bdb/
+-
+    namespace_prefix: sitex
+    provider_prefix: 
+    description: SitEx at Novosibirsk State University
+    homepage: http://www-bionet.sscc.ru/sitex/
+-
+    namespace_prefix: bykdb
+    provider_prefix: 
+    description: BYKdb at CNRS
+    homepage: http://bykdb.ibcp.fr/BYKdb/
+-
+    namespace_prefix: conoserver
+    provider_prefix: 
+    description: ConoServer at University of Queensland
+    homepage: http://www.conoserver.org/
+-
+    namespace_prefix: topfind
+    provider_prefix: 
+    description: TopFind at University of British Columbia
+    homepage: http://clipserve.clip.ubc.ca/topfind
+-
+    namespace_prefix: mipmod
+    provider_prefix: 
+    description: MIPModDB at Indian Institute of Technology Kanpur
+    homepage: http://bioinfo.iitk.ac.in/MIPModDB
+-
+    namespace_prefix: cellimage
+    provider_prefix: 
+    description: Cell Image Library at American Society for Cell Biology
+    homepage: http://cellimagelibrary.org/
+-
+    namespace_prefix: combine.specifications
+    provider_prefix: 
+    description: COMBINE at EBI
+    homepage: http://co.mbine.org/standards/
+-
+    namespace_prefix: zfin.phenotype
+    provider_prefix: 
+    description: ZFIN Phenotype at University of Oregon
+    homepage: http://zfin.org
+-
+    namespace_prefix: zfin.expression
+    provider_prefix: 
+    description: ZFIN Expression at University of Oregon
+    homepage: http://zfin.org
+-
+    namespace_prefix: cabri
+    provider_prefix: 
+    description: CABRI Cell Lines catalogue in Genova (SRS)
+    homepage: http://www.cabri.org/
+-
+    namespace_prefix: cabri
+    provider_prefix: 
+    description: CABRI Cell Lines catalogue in Brussels (SRS)
+    homepage: http://www.be.cabri.org/
+-
+    namespace_prefix: cygd
+    provider_prefix: 
+    description: CYGD PEDANT Interface at Biomax Informatics
+    homepage: http://pedant.helmholtz-muenchen.de/pedant3htmlview/pedant3view?Method=start_method&Db=p3_p13838_Sac_cerev
+-
+    namespace_prefix: huge
+    provider_prefix: 
+    description: HUGE at Kazusa DNA Research Institute
+    homepage: http://www.kazusa.or.jp/huge/
+-
+    namespace_prefix: bindingDB
+    provider_prefix: 
+    description: BindingDB At Skaggs School of Pharmacy & Pharmaceutical Sciences
+    homepage: http://www.bindingdb.org/bind/index.jsp
+-
+    namespace_prefix: string
+    provider_prefix: 
+    description: STRING at Heidelberg
+    homepage: http://string.embl.de/
+-
+    namespace_prefix: string
+    provider_prefix: 
+    description: STRING Mirror at Heidelberg
+    homepage: http://string-db.org/
+-
+    namespace_prefix: stitch
+    provider_prefix: 
+    description: STITCH
+    homepage: http://stitch.embl.de/
+-
+    namespace_prefix: atcvet
+    provider_prefix: 
+    description: Anatomical Therapeutic Chemical Vet Index at WHO
+    homepage: http://www.whocc.no/atcvet/atcvet_index/
+-
+    namespace_prefix: phenolexplorer
+    provider_prefix: 
+    description: Phenol-Explorer Database on Phenol content of foods
+    homepage: http://www.phenol-explorer.eu/foods/
+-
+    namespace_prefix: snomedct
+    provider_prefix: 
+    description: SNOMED-CT at The National Pathology Exchange
+    homepage: http://www.snomedbrowser.com/
+-
+    namespace_prefix: mesh.2012
+    provider_prefix: 
+    description: MeSH at National Library of Medicine
+    homepage: http://www.nlm.nih.gov/mesh/
+-
+    namespace_prefix: knapsack
+    provider_prefix: 
+    description: KnapSack at Nara Institute
+    homepage: http://kanaya.aist-nara.ac.jp/KNApSAcK/
+-
+    namespace_prefix: cdpd
+    provider_prefix: 
+    description: Canadian Drug Identification Number at Health Canada
+    homepage: http://webprod3.hc-sc.gc.ca/dpd-bdpp/index-eng.jsp
+-
+    namespace_prefix: massbank
+    provider_prefix: 
+    description: MassBank in Japan
+    homepage: http://www.massbank.jp
+-
+    namespace_prefix: massbank
+    provider_prefix: 
+    description: MassBank in Europe
+    homepage: http://www.massbank.eu/
+-
+    namespace_prefix: gmd
+    provider_prefix: 
+    description: Golm Metabolome Database at Max Planck Institute of Molecular Plant Physiology
+    homepage: http://gmd.mpimp-golm.mpg.de/
+-
+    namespace_prefix: homologene
+    provider_prefix: 
+    description: Homologene at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/homologene/
+-
+    namespace_prefix: homologene
+    provider_prefix: 
+    description: Bio2RDF
+    homepage: http://homologene.bio2rdf.org/fct
+-
+    namespace_prefix: umbbd.compound
+    provider_prefix: 
+    description: Biocatalysis/Biodegradation Database Mirror (Compound) at ETH Zurich
+    homepage: http://umbbd.ethz.ch/
+-
+    namespace_prefix: abs
+    provider_prefix: 
+    description: ABS at IMIM
+    homepage: http://genome.crg.es/datasets/abs2005/
+-
+    namespace_prefix: apd
+    provider_prefix: 
+    description: APD at Nebraska
+    homepage: http://aps.unmc.edu/AP/
+-
+    namespace_prefix: chemdb
+    provider_prefix: 
+    description: ChemDB at UC Irvine
+    homepage: http://cdb.ics.uci.edu/
+-
+    namespace_prefix: dpv
+    provider_prefix: 
+    description: DPV at Rothamsted
+    homepage: http://www.dpvweb.net/
+-
+    namespace_prefix: iuphar.receptor
+    provider_prefix: 
+    description: IUPHAR Receptor at University of Edinburgh
+    homepage: http://www.guidetopharmacology.org/targets.jsp
+-
+    namespace_prefix: aceview.worm
+    provider_prefix: 
+    description: AceView Worm at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/index.html?worm
+-
+    namespace_prefix: asap
+    provider_prefix: 
+    description: ASAP at University of Wisconsin
+    homepage: http://asap.ahabs.wisc.edu/asap/home.php
+-
+    namespace_prefix: atcc
+    provider_prefix: 
+    description: ATCC in Virginia
+    homepage: http://www.atcc.org/
+-
+    namespace_prefix: bdgp.est
+    provider_prefix: 
+    description: BDGP EST at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/dbEST/index.html
+-
+    namespace_prefix: dictybase.gene
+    provider_prefix: 
+    description: Dictybase Gene at Northwestern University
+    homepage: http://dictybase.org/
+-
+    namespace_prefix: imgt.ligm
+    provider_prefix: 
+    description: IMGT LIGM through DKFZ (SRS)
+    homepage: http://genius.embnet.dkfz-heidelberg.de/
+-
+    namespace_prefix: imgt.ligm
+    provider_prefix: 
+    description: IMGT LIGM at CNRS
+    homepage: http://www.imgt.org/
+-
+    namespace_prefix: worfdb
+    provider_prefix: 
+    description: Worm Orf DB at Harvard
+    homepage: http://worfdb.dfci.harvard.edu/
+-
+    namespace_prefix: nextdb
+    provider_prefix: 
+    description: NEXTDB at Shizuoka
+    homepage: http://nematode.lab.nig.ac.jp/
+-
+    namespace_prefix: soybase
+    provider_prefix: 
+    description: SoyBase at Iowa State University
+    homepage: http://soybase.org/
+-
+    namespace_prefix: hamap
+    provider_prefix: 
+    description: HAPMAP at Swiss Institute of Bioinformatics
+    homepage: http://hamap.expasy.org/
+-
+    namespace_prefix: rouge
+    provider_prefix: 
+    description: Rouge at Kazusa DNA Research Institute
+    homepage: http://www.kazusa.or.jp/rouge/
+-
+    namespace_prefix: arrayexpress.platform
+    provider_prefix: 
+    description: ArrayExpress Platform at EBI
+    homepage: http://www.ebi.ac.uk/arrayexpress/
+-
+    namespace_prefix: cgsc
+    provider_prefix: 
+    description: CGSC at Yale university
+    homepage: http://cgsc.biology.yale.edu/index.php
+-
+    namespace_prefix: dragondb.dna
+    provider_prefix: 
+    description: DragonDB DNA at University of British Columbia
+    homepage: http://www.antirrhinum.net/
+-
+    namespace_prefix: dragondb.protein
+    provider_prefix: 
+    description: DragonDB Protein at University of British Columbia
+    homepage: http://www.antirrhinum.net/
+-
+    namespace_prefix: dragondb.locus
+    provider_prefix: 
+    description: DragonDB Locus at University of British Columbia
+    homepage: http://www.antirrhinum.net/
+-
+    namespace_prefix: dragondb.allele
+    provider_prefix: 
+    description: DragonDB Allele at University of British Columbia
+    homepage: http://www.antirrhinum.net/
+-
+    namespace_prefix: issn
+    provider_prefix: 
+    description: ISSN at Library of Congress
+    homepage: http://catalog.loc.gov/webvoy.htm
+-
+    namespace_prefix: merops.family
+    provider_prefix: 
+    description: Merops Family at Sanger Institute
+    homepage: http://merops.sanger.ac.uk/index.htm
+-
+    namespace_prefix: mo
+    provider_prefix: 
+    description: MGED Ontology at BioPortal
+    homepage: http://bioportal.bioontology.org/
+-
+    namespace_prefix: mo
+    provider_prefix: 
+    description: MGED Ontology at SourceForge
+    homepage: http://mged.sourceforge.net/ontologies/MGEDontology.php
+-
+    namespace_prefix: nasc
+    provider_prefix: 
+    description: NASC at University of Nottingham
+    homepage: http://arabidopsis.info/
+-
+    namespace_prefix: niaest
+    provider_prefix: 
+    description: NIAEST at National Institute on Aging
+    homepage: http://lgsun.grc.nia.nih.gov/cDNA/
+-
+    namespace_prefix: pazar
+    provider_prefix: 
+    description: Pazar Transcription Factor at University of British Columbia
+    homepage: http://www.pazar.info/
+-
+    namespace_prefix: po
+    provider_prefix: 
+    description: Plant Ontology through Amigo
+    homepage: http://www.plantontology.org/
+-
+    namespace_prefix: po
+    provider_prefix: 
+    description: Plant Ontology through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/PO
+-
+    namespace_prefix: po
+    provider_prefix: 
+    description: Plant Ontology through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/po
+-
+    namespace_prefix: rnamods
+    provider_prefix: 
+    description: RNA Modification Database at University of Utah
+    homepage: http://rna-mdb.cas.albany.edu/RNAmods/rnaover.htm
+-
+    namespace_prefix: treebase
+    provider_prefix: 
+    description: TreeBASE (hosted at National Evolutionary Synthesis Center)
+    homepage: http://treebase.org/
+-
+    namespace_prefix: tgd
+    provider_prefix: 
+    description: TGD at Stanford University
+    homepage: http://ciliate.org/index.php/
+-
+    namespace_prefix: tigrfam
+    provider_prefix: 
+    description: TIGRFAM at JCVI
+    homepage: http://www.jcvi.org/cgi-bin/tigrfams/Listing.cgi
+-
+    namespace_prefix: atfdb.family
+    provider_prefix: 
+    description: Animal TFDB at Hubei Bioinformatics & Molecular Imaging Key Laboratory
+    homepage: http://www.bioguo.org/AnimalTFDB/family_index.php
+-
+    namespace_prefix: iuphar.family
+    provider_prefix: 
+    description: The IUPHAR/BPS Guide to PHARMACOLOGY
+    homepage: http://www.guidetopharmacology.org/
+-
+    namespace_prefix: dbg2introns
+    provider_prefix: 
+    description: Bacterial Group II Introns at University of Calgary
+    homepage: http://webapps2.ucalgary.ca/~groupii/
+-
+    namespace_prefix: sdbs
+    provider_prefix: 
+    description: SDBS at AIST
+    homepage: http://riodb01.ibase.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi
+-
+    namespace_prefix: vbase2
+    provider_prefix: 
+    description: Vbase2 at German Research Centre for Biotechnology
+    homepage: http://www.vbase2.org/vbase2.php
+-
+    namespace_prefix: spike.map
+    provider_prefix: 
+    description: SPIKE database at Tel Aviv University
+    homepage: http://www.cs.tau.ac.il/~spike/
+-
+    namespace_prefix: metlin
+    provider_prefix: 
+    description: METLIN at Scripps Center, Molecular Biology and Center for Mass Spectrometry, La Jolla
+    homepage: http://masspec.scripps.edu/
+-
+    namespace_prefix: genecards
+    provider_prefix: 
+    description: GeneCards at Weizmann Institute
+    homepage: http://www.genecards.org/
+-
+    namespace_prefix: mmrrc
+    provider_prefix: 
+    description: MMRRC  at University of North Carolina
+    homepage: http://www.mmrrc.org/
+-
+    namespace_prefix: umbbd.reaction
+    provider_prefix: 
+    description: Biocatalysis/Biodegradation Database Mirror (Reaction) at ETH Zurich
+    homepage: http://umbbd.ethz.ch/
+-
+    namespace_prefix: umbbd.enzyme
+    provider_prefix: 
+    description: Biocatalysis/Biodegradation Database Mirror (Enzyme) at ETH Zurich
+    homepage: http://umbbd.ethz.ch/
+-
+    namespace_prefix: umbbd.pathway
+    provider_prefix: 
+    description: Biocatalysis/Biodegradation Database Mirror (Pathway) at ETH Zurich
+    homepage: http://umbbd.ethz.ch/
+-
+    namespace_prefix: umbbd.rule
+    provider_prefix: 
+    description: Biocatalysis/Biodegradation Database Mirror (Biotransformation Rule) at ETH Zurich
+    homepage: http://umbbd.ethz.ch/servlets/pageservlet?ptype=allrules
+-
+    namespace_prefix: mirex
+    provider_prefix: 
+    description: mirEX at Adam Mickiewicz University
+    homepage: http://comgen.pl/mirex/?page=home
+-
+    namespace_prefix: dictybase.est
+    provider_prefix: 
+    description: Dictybase Gene at Northwestern University
+    homepage: http://dictybase.org/
+-
+    namespace_prefix: imgt.hla
+    provider_prefix: 
+    description: IMGT HLA at EBI
+    homepage: http://www.ebi.ac.uk/imgt/hla/allele.html
+-
+    namespace_prefix: flystock
+    provider_prefix: 
+    description: Flystock at Indiana University
+    homepage: http://flystocks.bio.indiana.edu/bloomhome.htm
+-
+    namespace_prefix: opm
+    provider_prefix: 
+    description: OPM at University of Michigan
+    homepage: http://opm.phar.umich.edu/
+-
+    namespace_prefix: allergome
+    provider_prefix: 
+    description: Allergome at Rome
+    homepage: http://www.allergome.org/
+-
+    namespace_prefix: pombase
+    provider_prefix: 
+    description: PomBase at University of Cambridge
+    homepage: http://www.pombase.org/
+-
+    namespace_prefix: hpa
+    provider_prefix: 
+    description: Human Protein Atlas at AlbaNova University
+    homepage: http://www.proteinatlas.org/
+-
+    namespace_prefix: jaxmice
+    provider_prefix: 
+    description: JAX Mice at Jackson Laboratory
+    homepage: http://jaxmice.jax.org/
+-
+    namespace_prefix: ubio.namebank
+    provider_prefix: 
+    description: uBio NameBank at The Marine Biological Laboratory
+    homepage: http://www.ubio.org
+-
+    namespace_prefix: yetfasco
+    provider_prefix: 
+    description: YeTFasCo at University of Toronto
+    homepage: http://yetfasco.ccbr.utoronto.ca/
+-
+    namespace_prefix: tarbase
+    provider_prefix: 
+    description: TarBase v7 at University of Thessaly
+    homepage: http://diana.imis.athena-innovation.gr/DianaTools/index.php?r=tarbase/index
+-
+    namespace_prefix: charprot
+    provider_prefix: 
+    description: CharProt at JCVI
+    homepage: http://www.jcvi.org/charprotdb
+-
+    namespace_prefix: oma.protein
+    provider_prefix: 
+    description: OMA Protein through OMA browser at ETH Zurich
+    homepage: http://omabrowser.org/cgi-bin/gateway.pl
+-
+    namespace_prefix: oma.grp
+    provider_prefix: 
+    description: OMA Group through OMA browser at ETH Zurich
+    homepage: http://omabrowser.org/cgi-bin/gateway.pl
+-
+    namespace_prefix: ncbiprotein
+    provider_prefix: 
+    description: NCBI Protein at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/protein
+-
+    namespace_prefix: genpept
+    provider_prefix: 
+    description: GenPept at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/protein
+-
+    namespace_prefix: unigene
+    provider_prefix: 
+    description: UniGene at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/unigene
+-
+    namespace_prefix: bitterdb.rec
+    provider_prefix: 
+    description: BitterDB Receptor at The Hebrew University of Jerusalem
+    homepage: http://bitterdb.agri.huji.ac.il/dbbitter.php
+-
+    namespace_prefix: bitterdb.cpd
+    provider_prefix: 
+    description: BitterDB Compound at The Hebrew University of Jerusalem
+    homepage: http://bitterdb.agri.huji.ac.il/dbbitter.php
+-
+    namespace_prefix: bioproject
+    provider_prefix: 
+    description: BioProject at DNA Data Bank of Japan
+    homepage: http://trace.ddbj.nig.ac.jp/bioproject/
+-
+    namespace_prefix: bioproject
+    provider_prefix: 
+    description: BioProject at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/bioproject
+-
+    namespace_prefix: bioproject
+    provider_prefix: 
+    description: BioProject at European Nucleotide Archive (ENA)
+    homepage: http://www.ebi.ac.uk/ena/
+-
+    namespace_prefix: biosample
+    provider_prefix: 
+    description: BioSample Database at EBI
+    homepage: http://www.ebi.ac.uk/biosamples/
+-
+    namespace_prefix: biosample
+    provider_prefix: 
+    description: BioSample at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/biosample
+-
+    namespace_prefix: biosample
+    provider_prefix: 
+    description: BioSample at DNA Data Bank of Japan
+    homepage: http://trace.ddbj.nig.ac.jp/biosample/
+-
+    namespace_prefix: piroplasma
+    provider_prefix: 
+    description: PiroplasmaBD at EuPathDB
+    homepage: http://piroplasmadb.org/
+-
+    namespace_prefix: unite
+    provider_prefix: 
+    description: Unite at University of Tartu
+    homepage: http://unite.ut.ee/
+-
+    namespace_prefix: ncim
+    provider_prefix: 
+    description: NCIm at National Cancer Institue
+    homepage: http://ncim.nci.nih.gov/
+-
+    namespace_prefix: proglyc
+    provider_prefix: 
+    description: ProGlycProt at IMT
+    homepage: http://www.proglycprot.org/
+-
+    namespace_prefix: polbase
+    provider_prefix: 
+    description: PolBase at New England BioLabs
+    homepage: http://polbase.neb.com/
+-
+    namespace_prefix: nuclearbd
+    provider_prefix: 
+    description: NucleaRDB at Radboud University Nijmegen Medical Centre
+    homepage: http://www.receptors.org/nucleardb/
+-
+    namespace_prefix: supfam
+    provider_prefix: 
+    description: SUPFAM at MRC and University of Bristol
+    homepage: http://supfam.org/SUPERFAMILY/
+-
+    namespace_prefix: ricegap
+    provider_prefix: 
+    description: Rice Genome Annotation Project at TIGR
+    homepage: http://rice.plantbiology.msu.edu/annotation_pseudo_current.shtml
+-
+    namespace_prefix: pina
+    provider_prefix: 
+    description: Protein Interaction Network Analysis (PINA) at Garvan Institute
+    homepage: http://cbg.garvan.unsw.edu.au/pina/
+-
+    namespace_prefix: tissuelist
+    provider_prefix: 
+    description: Tissue List at Swiss Institute of Bioinformatics
+    homepage: http://www.uniprot.org/docs/tisslist.txt
+-
+    namespace_prefix: bacmap.biog
+    provider_prefix: 
+    description: BacMap Biography at University of Alberta
+    homepage: http://bacmap.wishartlab.com/
+-
+    namespace_prefix: hgnc.symbol
+    provider_prefix: 
+    description: HGNC Symbol at HUGO Genome Nomenclature Committee
+    homepage: http://www.genenames.org/
+-
+    namespace_prefix: panther.pathway
+    provider_prefix: 
+    description: PANTHER Pathway at USC (Los Angeles)
+    homepage: http://www.pantherdb.org/
+-
+    namespace_prefix: biosharing
+    provider_prefix: 
+    description: BioSharing at University of Oxford
+    homepage: https://www.biosharing.org/
+-
+    namespace_prefix: fungidb
+    provider_prefix: 
+    description: FungiDB at University of California
+    homepage: http://FungiDB.org
+-
+    namespace_prefix: darc
+    provider_prefix: 
+    description: DARC at University of Munich
+    homepage: http://darcsite.genzentrum.lmu.de/darc/index.php
+-
+    namespace_prefix: drsc
+    provider_prefix: 
+    description: DRSC at Harvard Medical School
+    homepage: http://flyrnai.org/
+-
+    namespace_prefix: oridb.schizo
+    provider_prefix: 
+    description: OriDB Schizosaccharomyces at University of Nottingham
+    homepage: http://pombe.oridb.org/index.php
+-
+    namespace_prefix: oridb.sacch
+    provider_prefix: 
+    description: OriDB Saccharomyces at University of Nottingham
+    homepage: http://cerevisiae.oridb.org/index.php
+-
+    namespace_prefix: pscdb
+    provider_prefix: 
+    description: PSCDB at Nagoya University
+    homepage: http://idp1.force.cs.is.nagoya-u.ac.jp/pscdb/index.html
+-
+    namespace_prefix: scop
+    provider_prefix: 
+    description: SCOP at MRC
+    homepage: http://scop.mrc-lmb.cam.ac.uk/scop/
+-
+    namespace_prefix: scop
+    provider_prefix: 
+    description: SCOP at Berkeley
+    homepage: http://scop.berkeley.edu/
+-
+    namespace_prefix: ena.embl
+    provider_prefix: 
+    description: ENA at European Bioinformatics Institute
+    homepage: http://www.ebi.ac.uk/ena/
+-
+    namespace_prefix: dommino
+    provider_prefix: 
+    description: DOMMINO at University of Missouri
+    homepage: http://dommino.org/
+-
+    namespace_prefix: panther.node
+    provider_prefix: 
+    description: PANTHER Node at USC (Los Angeles)
+    homepage: http://pantree.org/
+-
+    namespace_prefix: ccds
+    provider_prefix: 
+    description: Consensus CDS at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/CCDS/
+-
+    namespace_prefix: lrg
+    provider_prefix: 
+    description: Locus Reference Genomic at University of Leicester
+    homepage: http://www.lrg-sequence.org/
+-
+    namespace_prefix: lrg
+    provider_prefix: 
+    description: Locus Reference Genomic through Ensembl
+    homepage: http://www.ensembl.org/
+-
+    namespace_prefix: lrg
+    provider_prefix: 
+    description: Locus Reference Genomic through Ensembl mirror (asia)
+    homepage: http://asia.ensembl.org/
+-
+    namespace_prefix: lrg
+    provider_prefix: 
+    description: Locus Reference Genomic through Ensembl mirror (US west)
+    homepage: http://uswest.ensembl.org/
+-
+    namespace_prefix: lrg
+    provider_prefix: 
+    description: Locus Reference Genomic through Ensembl mirror (US east)
+    homepage: http://useast.ensembl.org/
+-
+    namespace_prefix: hprd
+    provider_prefix: 
+    description: Human Protein Reference Database
+    homepage: http://www.hprd.org/
+-
+    namespace_prefix: gxa.gene
+    provider_prefix: 
+    description: GXA Gene at EBI
+    homepage: http://www.ebi.ac.uk/gxa/
+-
+    namespace_prefix: gxa.expt
+    provider_prefix: 
+    description: GXA Expt at EBI
+    homepage: http://www.ebi.ac.uk/gxa/
+-
+    namespace_prefix: metabolights
+    provider_prefix: 
+    description: MetaboLights at EBI
+    homepage: http://www.ebi.ac.uk/metabolights/
+-
+    namespace_prefix: nbn
+    provider_prefix: 
+    description: NBN through URN Resolver at German National Library
+    homepage: http://nbn-resolving.org/resolve_urn.htm
+-
+    namespace_prefix: orcid
+    provider_prefix: 
+    description: ORCID at Bethesda
+    homepage: http://orcid.org
+-
+    namespace_prefix: inchi
+    provider_prefix: 
+    description: InChI through RDF Open Molecules
+    homepage: http://rdf.openmolecules.net/
+-
+    namespace_prefix: inchi
+    provider_prefix: 
+    description: InChI through Chemspider
+    homepage: http://www.chemspider.com/
+-
+    namespace_prefix: inchi
+    provider_prefix: 
+    description: InChI through NIST
+    homepage: http://webbook.nist.gov/chemistry
+-
+    namespace_prefix: inchi
+    provider_prefix: 
+    description: InChI through ChEBI
+    homepage: http://www.ebi.ac.uk/chebi/
+-
+    namespace_prefix: wikipedia.en
+    provider_prefix: 
+    description: Wikipedia (English)
+    homepage: http://en.wikipedia.org/wiki/Main_Page
+-
+    namespace_prefix: wikipedia.en
+    provider_prefix: 
+    description: Wikipedia structured content through DBpedia
+    homepage: http://wiki.dbpedia.org/
+-
+    namespace_prefix: phosphopoint.kinase
+    provider_prefix: 
+    description: PhosphoPoint Kinase at National Taiwan University
+    homepage: http://kinase.bioinformatics.tw/
+-
+    namespace_prefix: phosphopoint.protein
+    provider_prefix: 
+    description: PhosphoPoint Phosphoprotein at National Taiwan University
+    homepage: http://kinase.bioinformatics.tw/
+-
+    namespace_prefix: inchikey
+    provider_prefix: 
+    description: InChIKey through ChemSpider
+    homepage: http://www.chemspider.com/
+-
+    namespace_prefix: inchikey
+    provider_prefix: 
+    description: InChiKey resolver at NCI
+    homepage: http://cactus.nci.nih.gov/chemical/structure
+-
+    namespace_prefix: uniprot.isoform
+    provider_prefix: 
+    description: UniProt Isoform through Universal Protein Resource
+    homepage: http://www.uniprot.org/
+-
+    namespace_prefix: uniprot.isoform
+    provider_prefix: 
+    description: UniProt Isoform through Universal Protein Resource using Persistent URL system
+    homepage: http://purl.uniprot.org/
+-
+    namespace_prefix: uniprot.isoform
+    provider_prefix: 
+    description: UniProt Isoform through UniParc
+    homepage: http://www.uniprot.org/uniparc/
+-
+    namespace_prefix: kegg.environ
+    provider_prefix: 
+    description: KEGG ENVIRON Database
+    homepage: http://www.genome.jp/kegg/drug/environ.html
+-
+    namespace_prefix: cldb
+    provider_prefix: 
+    description: CLDB at Genova
+    homepage: http://bioinformatics.hsanmartino.it/hypercldb/indexes.html
+-
+    namespace_prefix: efo
+    provider_prefix: ols
+    description: EFO through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/efo
+-
+    namespace_prefix: efo
+    provider_prefix: bptl
+    description: EFO through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/EFO
+-
+    namespace_prefix: efo
+    provider_prefix: ebi
+    description: EFO through Functional Genomics Group (EBI)
+    homepage: http://www.ebi.ac.uk/efo/
+-
+    namespace_prefix: hgmd
+    provider_prefix: 
+    description: HGMD at Cardiff University
+    homepage: http://www.hgmd.cf.ac.uk/ac/index.php
+-
+    namespace_prefix: aphidbase.transcript
+    provider_prefix: 
+    description: AphidBase at INRA
+    homepage: http://www.aphidbase.com/aphidbase
+-
+    namespace_prefix: affy.probeset
+    provider_prefix: 
+    description: Affymetrix ProbeSet in Santa Clara
+    homepage: http://www.affymetrix.com/
+-
+    namespace_prefix: affy.probeset
+    provider_prefix: 
+    description: Bio2RDF
+    homepage: http://cu.affymetrix.bio2rdf.org/fct/
+-
+    namespace_prefix: treefam
+    provider_prefix: 
+    description: TreeFam database
+    homepage: http://www.treefam.org/
+-
+    namespace_prefix: caps
+    provider_prefix: 
+    description: CAPS-DB at Leeds Institute of Molecular Medicine
+    homepage: http://www.bioinsilico.org/cgi-bin/CAPSDB/staticHTML/home
+-
+    namespace_prefix: cubedb
+    provider_prefix: 
+    description: Cube db at Bioinformatics Institute (Singapore)
+    homepage: http://epsf.bmad.bii.a-star.edu.sg/cube/db/html/home.html
+-
+    namespace_prefix: ideal
+    provider_prefix: 
+    description: IDEAL at Maebashi Institute of Technology
+    homepage: http://www.ideal.force.cs.is.nagoya-u.ac.jp/IDEAL/
+-
+    namespace_prefix: stap
+    provider_prefix: 
+    description: STAP at Korean Bioinformation Center
+    homepage: http://psb.kobic.re.kr/STAP/refinement/
+-
+    namespace_prefix: pocketome
+    provider_prefix: 
+    description: Pocketome at UCSD Skaggs School
+    homepage: http://www.pocketome.org/sfSearch.cgi?act=browseall
+-
+    namespace_prefix: gold.genome
+    provider_prefix: 
+    description: GOLD genome at Department of Energy Joint Genome Institute
+    homepage: http://www.genomesonline.org/cgi-bin/GOLD/index.cgi
+-
+    namespace_prefix: gold.meta
+    provider_prefix: 
+    description: GOLD metadata at Department of Energy Joint Genome Institute
+    homepage: http://www.genomesonline.org/cgi-bin/GOLD/index.cgi
+-
+    namespace_prefix: bugbase.protocol
+    provider_prefix: 
+    description: BugBase Protocol at University of London
+    homepage: http://bugs.sgul.ac.uk/E-BUGS
+-
+    namespace_prefix: bugbase.expt
+    provider_prefix: 
+    description: BugBase Expt at University of London
+    homepage: http://bugs.sgul.ac.uk/E-BUGS
+-
+    namespace_prefix: tol
+    provider_prefix: 
+    description: Tree of Life Web
+    homepage: http://tolweb.org/tree/
+-
+    namespace_prefix: vario
+    provider_prefix: 
+    description: VariO at Lund University
+    homepage: http://www.variationontology.org/
+-
+    namespace_prefix: vario
+    provider_prefix: 
+    description: VariO through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/VARIO
+-
+    namespace_prefix: vario
+    provider_prefix: 
+    description: VariO through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/vario
+-
+    namespace_prefix: vipr
+    provider_prefix: 
+    description: ViPR Strain at J. Craig Venter Institute
+    homepage: http://www.viprbrc.org/brc/home.do?decorator=vipr
+-
+    namespace_prefix: epd
+    provider_prefix: 
+    description: EPD at Swiss Institute of Bioinformatics
+    homepage: http://epd.vital-it.ch/
+-
+    namespace_prefix: rfam
+    provider_prefix: 
+    description: Rfam at EMBL-EBI
+    homepage: http://rfam.xfam.org/
+-
+    namespace_prefix: fbol
+    provider_prefix: 
+    description: Fungal Barcode at Fungal Biodiversity Centre
+    homepage: http://www.fungalbarcoding.org/
+-
+    namespace_prefix: aftol.taxonomy
+    provider_prefix: 
+    description: AFTOL at University of Minnesota
+    homepage: http://aftol.org/data.php
+-
+    namespace_prefix: aspgd.locus
+    provider_prefix: 
+    description: AspGD at Stanford Medical School
+    homepage: http://www.aspgd.org/
+-
+    namespace_prefix: aspgd.protein
+    provider_prefix: 
+    description: AspGD Protein at Stanford Medical School
+    homepage: http://www.aspgd.org/
+-
+    namespace_prefix: autdb
+    provider_prefix: 
+    description: AutDB at MindSpec
+    homepage: http://autism.mindspec.org/autdb/
+-
+    namespace_prefix: bacmap.map
+    provider_prefix: 
+    description: BacMap Genome Map at University of Alberta
+    homepage: http://bacmap.wishartlab.com/
+-
+    namespace_prefix: bgee.family
+    provider_prefix: 
+    description: Bgee at Lausanne
+    homepage: http://bgee.unil.ch/bgee/bgee
+-
+    namespace_prefix: bgee.gene
+    provider_prefix: 
+    description: Bgee at Lausanne
+    homepage: http://bgee.unil.ch/bgee/bgee
+-
+    namespace_prefix: bgee.stage
+    provider_prefix: 
+    description: Bgee at Lausanne
+    homepage: http://bgee.unil.ch/bgee/bgee
+-
+    namespace_prefix: bgee.organ
+    provider_prefix: 
+    description: Bgee at Lausanne
+    homepage: http://bgee.unil.ch/bgee/bgee
+-
+    namespace_prefix: biocarta.pathway
+    provider_prefix: 
+    description: BioCarta Pathway at NCI
+    homepage: http://www.biocarta.com/
+-
+    namespace_prefix: panther.pthcmp
+    provider_prefix: 
+    description: PANTHER Pathway Component at USC (Los Angeles)
+    homepage: http://www.pantherdb.org/
+-
+    namespace_prefix: gmd.profile
+    provider_prefix: 
+    description: Golm Metabolome Database (Profile) at Max Planck Institute of Molecular Plant Physiology
+    homepage: http://gmd.mpimp-golm.mpg.de/
+-
+    namespace_prefix: gmd.gcms
+    provider_prefix: 
+    description: Golm Metabolome Database (GC-MS Spectra) at Max Planck Institute of Molecular Plant Physiology
+    homepage: http://gmd.mpimp-golm.mpg.de/
+-
+    namespace_prefix: gmd.ref
+    provider_prefix: 
+    description: Golm Metabolome Database (Reference Substance) at Max Planck Institute of Molecular Plant Physiology
+    homepage: http://gmd.mpimp-golm.mpg.de/
+-
+    namespace_prefix: gmd.analyte
+    provider_prefix: 
+    description: Golm Metabolome Database (Analyte) at Max Planck Institute of Molecular Plant Physiology
+    homepage: http://gmd.mpimp-golm.mpg.de/
+-
+    namespace_prefix: intact.molecule
+    provider_prefix: 
+    description: IntAct Molecule at EBI
+    homepage: http://www.ebi.ac.uk/intact/
+-
+    namespace_prefix: depod
+    provider_prefix: 
+    description: DEPOD at EMBL
+    homepage: http://www.koehnlab.de/depod/
+-
+    namespace_prefix: cst
+    provider_prefix: 
+    description: CST Pathways at Cell Signaling Technology
+    homepage: http://www.cellsignal.com/pathways/index.html
+-
+    namespace_prefix: cst.ab
+    provider_prefix: 
+    description: CST Antibody at Cell Signaling Technology
+    homepage: http://www.cellsignal.com/catalog/index.html
+-
+    namespace_prefix: ndc
+    provider_prefix: 
+    description: National Drug Code at Food and Drug Administration
+    homepage: http://www.accessdata.fda.gov/scripts/cder/ndc/
+-
+    namespace_prefix: ndc
+    provider_prefix: 
+    description: Bio2RDF
+    homepage: http://ndc.bio2rdf.org/fct
+-
+    namespace_prefix: phytozome.locus
+    provider_prefix: 
+    description: Phytozome Locus at Joint Genome Institute
+    homepage: http://www.phytozome.net/
+-
+    namespace_prefix: subtilist
+    provider_prefix: 
+    description: SubtiList at Pasteur Institute
+    homepage: http://genolist.pasteur.fr/SubtiList/
+-
+    namespace_prefix: dailymed
+    provider_prefix: 
+    description: DailyMed at NLM
+    homepage: http://dailymed.nlm.nih.gov/dailymed/
+-
+    namespace_prefix: sider.drug
+    provider_prefix: 
+    description: SIDER Drug v2 at EMBL (Heidelberg)
+    homepage: http://sideeffects.embl.de/
+-
+    namespace_prefix: sider.effect
+    provider_prefix: 
+    description: SIDER Side Effect v2 at EMBL (Heidelberg)
+    homepage: http://sideeffects.embl.de/
+-
+    namespace_prefix: wikigenes
+    provider_prefix: 
+    description: WikiGenes at Massachusetts Institute of Technology
+    homepage: http://www.wikigenes.org/
+-
+    namespace_prefix: broad
+    provider_prefix: 
+    description: Broad Fungal Genome Initiative at Broad Institute
+    homepage: http://www.broadinstitute.org/annotation/genome/magnaporthe_grisea/
+-
+    namespace_prefix: coriell
+    provider_prefix: 
+    description: Coriell Cell Repositories at Coriell Institute
+    homepage: http://ccr.coriell.org/
+-
+    namespace_prefix: corum
+    provider_prefix: 
+    description: CORUM at Institute for Bioinformatics and Systems Biology (Germany)
+    homepage: http://mips.helmholtz-muenchen.de/genre/proj/corum/
+-
+    namespace_prefix: ecoliwiki
+    provider_prefix: 
+    description: EcoliWiki at Texas Agrilife Research
+    homepage: http://ecoliwiki.net/colipedia/
+-
+    namespace_prefix: jstor
+    provider_prefix: 
+    description: JSTOR Online
+    homepage: http://www.jstor.org/
+-
+    namespace_prefix: ma
+    provider_prefix: 
+    description: Mouse Adult Gross Anatomy through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/MA
+-
+    namespace_prefix: ma
+    provider_prefix: 
+    description: Mouse Adult Gross Anatomy through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/ma
+-
+    namespace_prefix: ma
+    provider_prefix: 
+    description: Mouse Adult Gross Anatomy at The Jackson Laboratory
+    homepage: http://www.informatics.jax.org/
+-
+    namespace_prefix: uberon
+    provider_prefix: 
+    description: UBERON through bioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/UBERON
+-
+    namespace_prefix: uberon
+    provider_prefix: 
+    description: UBERON through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/uberon
+-
+    namespace_prefix: unimod
+    provider_prefix: 
+    description: Unimod at Matrix Sciences Ltd.
+    homepage: http://www.unimod.org/
+-
+    namespace_prefix: vbrc
+    provider_prefix: 
+    description: VBRC at University of Alabama
+    homepage: http://vbrc.org/
+-
+    namespace_prefix: viralzone
+    provider_prefix: 
+    description: ViralZone at SIB
+    homepage: http://www.expasy.org/viralzone/
+-
+    namespace_prefix: go.ref
+    provider_prefix: 
+    description: Gene Ontology Reference at The Gene Ontology Consortium
+    homepage: http://www.geneontology.org/cgi-bin/references.cgi
+-
+    namespace_prefix: rgd.qtl
+    provider_prefix: 
+    description: Rat Genome Database qTL at Medical College of Wisconsin
+    homepage: http://rgd.mcw.edu/
+-
+    namespace_prefix: rgd.strain
+    provider_prefix: 
+    description: Rat Genome Database strain at Medical College of Wisconsin
+    homepage: http://rgd.mcw.edu/
+-
+    namespace_prefix: door
+    provider_prefix: 
+    description: DOOR v1 at University of Georgia
+    homepage: http://csbl1.bmb.uga.edu/OperonDB/DOOR.php
+-
+    namespace_prefix: degradome
+    provider_prefix: 
+    description: Degradome Database at
+    homepage: http://degradome.uniovi.es/
+-
+    namespace_prefix: dbd
+    provider_prefix: 
+    description: DBD at MRC Laboratory of Molecular Biology
+    homepage: http://www.transcriptionfactor.org/
+-
+    namespace_prefix: datf
+    provider_prefix: 
+    description: DATF through PlantTFDB
+    homepage: http://datf.cbi.pku.edu.cn/
+-
+    namespace_prefix: iuphar.ligand
+    provider_prefix: 
+    description: IUPHAR ligand at University of Edinburgh
+    homepage: http://www.guidetopharmacology.org/GRAC/LigandListForward?database=all
+-
+    namespace_prefix: molbase
+    provider_prefix: 
+    description: Molbase at Chinese Academy of Sciences
+    homepage: http://www.molbase.com/
+-
+    namespace_prefix: yrcpdr
+    provider_prefix: 
+    description: YRC PDR at University of Washington
+    homepage: http://www.yeastrc.org/pdr/
+-
+    namespace_prefix: yid
+    provider_prefix: 
+    description: Yeast Intron Database version 3 at Baskin School of Engineering
+    homepage: http://compbio.soe.ucsc.edu/yeast_introns.html
+-
+    namespace_prefix: funcbase.fly
+    provider_prefix: 
+    description: FuncBase Fly at Harvard Medical School
+    homepage: http://func.mshri.on.ca/fly
+-
+    namespace_prefix: funcbase.human
+    provider_prefix: 
+    description: FuncBase Human at Harvard Medical School
+    homepage: http://func.mshri.on.ca/human/
+-
+    namespace_prefix: funcbase.mouse
+    provider_prefix: 
+    description: FuncBase Mouse at Harvard Medical School
+    homepage: http://func.mshri.on.ca/mouse/
+-
+    namespace_prefix: funcbase.yeast
+    provider_prefix: 
+    description: FuncBase Yeast at Harvard Medical School
+    homepage: http://func.mshri.on.ca/yeast
+-
+    namespace_prefix: ydpm
+    provider_prefix: 
+    description: YDPM at Stanford University School of Medicine
+    homepage: http://www-deletion.stanford.edu/YDPM/
+-
+    namespace_prefix: wormbase.rnai
+    provider_prefix: 
+    description: WormBase RNAi at Cold Spring Harbor Laboratory
+    homepage: http://www.wormbase.org/
+-
+    namespace_prefix: funcat
+    provider_prefix: 
+    description: FunCat at MIPS (Neuherberg)
+    homepage: http://mips.helmholtz-muenchen.de/funcatDB/
+-
+    namespace_prefix: pass2
+    provider_prefix: 
+    description: PASS2 at National centre for Biological Sciences (India)
+    homepage: http://caps.ncbs.res.in/pass2/
+-
+    namespace_prefix: iceberg.element
+    provider_prefix: 
+    description: ICEberg element at Shanghai Jiaotong University
+    homepage: http://db-mml.sjtu.edu.cn/ICEberg/
+-
+    namespace_prefix: iceberg.family
+    provider_prefix: 
+    description: ICEberg family at Shanghai Jiaotong University
+    homepage: http://db-mml.sjtu.edu.cn/ICEberg/
+-
+    namespace_prefix: vfdb.genus
+    provider_prefix: 
+    description: VFDB Genus at Institute of Pathogen Biology
+    homepage: http://www.mgc.ac.cn/VFs/
+-
+    namespace_prefix: vfdb.gene
+    provider_prefix: 
+    description: VFDB Gene at Institute of Pathogen Biology
+    homepage: http://www.mgc.ac.cn/VFs/
+-
+    namespace_prefix: mesh.2013
+    provider_prefix: 
+    description: MeSH 2013 at National Library of Medicine
+    homepage: http://www.nlm.nih.gov/mesh/
+-
+    namespace_prefix: kegg.module
+    provider_prefix: 
+    description: KEGG Module at Kyoto University Bioinformatics Center
+    homepage: http://www.kegg.jp/kegg/module.html
+-
+    namespace_prefix: kegg.disease
+    provider_prefix: 
+    description: KEGG Disease at Kyoto University Bioinformatics Center
+    homepage: http://www.genome.jp/kegg/disease/
+-
+    namespace_prefix: medlineplus
+    provider_prefix: 
+    description: MedlinePlus at NCBI
+    homepage: http://www.nlm.nih.gov/medlineplus/
+-
+    namespace_prefix: ligandbox
+    provider_prefix: 
+    description: LigandBox at
+    homepage: http://ligandbox.protein.osaka-u.ac.jp/ligandbox//cgi-bin/index.cgi?LANG=en
+-
+    namespace_prefix: glycoepitope
+    provider_prefix: 
+    description: GlycoEpitope at Ritsumeikan University
+    homepage: http://www.glycoepitope.jp/epitopes/
+-
+    namespace_prefix: jcggdb
+    provider_prefix: 
+    description: JCGGDB at Advanced Science Institute (Japan)
+    homepage: http://jcggdb.jp/index_en.html
+-
+    namespace_prefix: noncodev4.gene
+    provider_prefix: 
+    description: NONCODE v4 Gene at Chinese Academy of Sciences
+    homepage: http://www.bioinfo.org/NONCODEv4/
+-
+    namespace_prefix: noncodev4.rna
+    provider_prefix: 
+    description: NONCODE v4 Transcript at Chinese Academy of Sciences
+    homepage: http://www.bioinfo.org/NONCODEv4/
+-
+    namespace_prefix: oryzabase.gene
+    provider_prefix: 
+    description: Oryzabase v4 Gene at National Institute of Genetics (Japan)
+    homepage: http://www.shigen.nig.ac.jp/rice/oryzabaseV4/
+-
+    namespace_prefix: oryzabase.mutant
+    provider_prefix: 
+    description: Oryzabase v4 Mutant at National Institute of Genetics (Japan)
+    homepage: http://www.shigen.nig.ac.jp/rice/oryzabaseV4/
+-
+    namespace_prefix: oryzabase.strain
+    provider_prefix: 
+    description: Oryzabase v4 Strain at National Institute of Genetics (Japan)
+    homepage: http://www.shigen.nig.ac.jp/rice/oryzabaseV4/
+-
+    namespace_prefix: oryzabase.stage
+    provider_prefix: 
+    description: Oryzabase v4 Stage at National Institute of Genetics (Japan)
+    homepage: http://www.shigen.nig.ac.jp/rice/oryzabaseV4/
+-
+    namespace_prefix: otl
+    provider_prefix: 
+    description: Oryza Tag Line at CIRAD-INRA-SUPAGRO-UMI
+    homepage: http://oryzatagline.cirad.fr/
+-
+    namespace_prefix: genewiki
+    provider_prefix: 
+    description: Gene Wiki through BioGPS
+    homepage: http://en.wikipedia.org/wiki/Gene_Wiki
+-
+    namespace_prefix: paxdb.organism
+    provider_prefix: 
+    description: PaxDb v3 at University of Zurich
+    homepage: http://pax-db.org/
+-
+    namespace_prefix: paxdb.protein
+    provider_prefix: 
+    description: PaxDb v3 at University of Zurich
+    homepage: http://pax-db.org/
+-
+    namespace_prefix: pdb.ligand
+    provider_prefix: 
+    description: PDB Ligand at RCSB
+    homepage: http://www.pdb.org/
+-
+    namespace_prefix: pdb.ligand
+    provider_prefix: 
+    description: PDB Ligand at Protein Databank in Europe (PDBe)
+    homepage: http://www.pdbe.org/
+-
+    namespace_prefix: merops.inhibitor
+    provider_prefix: 
+    description: MEROPS Inhibitor at Sanger Institute
+    homepage: http://merops.sanger.ac.uk/index.htm
+-
+    namespace_prefix: adw
+    provider_prefix: 
+    description: Animal Diversity Web at University of Michigan
+    homepage: http://animaldiversity.ummz.umich.edu/
+-
+    namespace_prefix: glida.gpcr
+    provider_prefix: 
+    description: GLIDA GPCR at Kyoto University
+    homepage: http://pharminfo.pharm.kyoto-u.ac.jp/services/glida/
+-
+    namespace_prefix: glida.ligand
+    provider_prefix: 
+    description: GLIDA Ligand at Kyoto University
+    homepage: http://pharminfo.pharm.kyoto-u.ac.jp/services/glida/
+-
+    namespace_prefix: grsdb
+    provider_prefix: 
+    description: GRSDB v2 at  Ramapo College of New Jersey
+    homepage: http://bioinformatics.ramapo.edu/GRSDB2/
+-
+    namespace_prefix: fsnp
+    provider_prefix: 
+    description: 'F-SNP at Queen''s University (Canada)'
+    homepage: http://compbio.cs.queensu.ca/F-SNP/
+-
+    namespace_prefix: hdr
+    provider_prefix: 
+    description: Homeodomain Research at National Human Genome Research Institute (NIH)
+    homepage: http://research.nhgri.nih.gov/apps/homeodomain/web/
+-
+    namespace_prefix: norine
+    provider_prefix: 
+    description: NORINE at Computer Science Laboratory of Lille
+    homepage: http://bioinfo.lifl.fr/norine/
+-
+    namespace_prefix: ordb
+    provider_prefix: 
+    description: Olfactory Receptor Database at Yale University School of Medicine
+    homepage: http://senselab.med.yale.edu/OrDB/
+-
+    namespace_prefix: odor
+    provider_prefix: 
+    description: Odor Molecules DataBase at Yale University School of Medicine
+    homepage: http://senselab.med.yale.edu/OdorDB
+-
+    namespace_prefix: p3db.protein
+    provider_prefix: 
+    description: P3DB Protein at University of Missouri
+    homepage: http://www.p3db.org/
+-
+    namespace_prefix: p3db.site
+    provider_prefix: 
+    description: P3DB Site at University of Missouri
+    homepage: http://www.p3db.org/
+-
+    namespace_prefix: topdb
+    provider_prefix: 
+    description: TOPDB at Hungarian Academy of Sciences
+    homepage: http://topdb.enzim.hu/
+-
+    namespace_prefix: cattleqtldb
+    provider_prefix: 
+    description: Animal QTL Cattle at Iowa State University
+    homepage: http://www.animalgenome.org/cgi-bin/QTLdb/BT/index
+-
+    namespace_prefix: chickenqtldb
+    provider_prefix: 
+    description: Animal QTL Chicken at Iowa State University
+    homepage: http://www.animalgenome.org/cgi-bin/QTLdb/GG/index
+-
+    namespace_prefix: pigqtldb
+    provider_prefix: 
+    description: Animal QTL Pig at Iowa State University
+    homepage: http://www.animalgenome.org/cgi-bin/QTLdb/SS/index
+-
+    namespace_prefix: sheepqtldb
+    provider_prefix: 
+    description: Animal QTL Sheep at Iowa State University
+    homepage: http://www.animalgenome.org/cgi-bin/QTLdb/OA/index
+-
+    namespace_prefix: gramene.growthstage
+    provider_prefix: 
+    description: Gramene Growth Stage Ontology at Cold Spring Harbor
+    homepage: http://www.gramene.org/
+-
+    namespace_prefix: ncbigi
+    provider_prefix: 
+    description: NCBI GI at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/protein/
+-
+    namespace_prefix: ebimetagenomics.samp
+    provider_prefix: 
+    description: EBI Metagenomics at European Bioinformatics Institute
+    homepage: http://www.ebi.ac.uk/metagenomics
+-
+    namespace_prefix: ega.study
+    provider_prefix: 
+    description: EGA Study at European Bioinformatics Institute
+    homepage: https://www.ebi.ac.uk/ega/studies
+-
+    namespace_prefix: ega.dataset
+    provider_prefix: 
+    description: EGA Dataset at European Bioinformatics Institute
+    homepage: https://www.ebi.ac.uk/ega/dataset
+-
+    namespace_prefix: proteomexchange
+    provider_prefix: 
+    description: ProteomeXchange at Seattle
+    homepage: http://www.proteomexchange.org/
+-
+    namespace_prefix: biomodels.vocabulary
+    provider_prefix: 
+    description: Vocabulary via BioModels.net
+    homepage: http://biomodels.net/rdf/vocabulary.rdf
+-
+    namespace_prefix: pride.project
+    provider_prefix: 
+    description: PRIDE Project at EBI
+    homepage: http://www.ebi.ac.uk/pride/
+-
+    namespace_prefix: antibodyregistry
+    provider_prefix: 
+    description: Antibody Registry at University of California
+    homepage: http://antibodyregistry.org/
+-
+    namespace_prefix: mamo
+    provider_prefix: 
+    description: MAMO through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/MAMO
+-
+    namespace_prefix: mamo
+    provider_prefix: 
+    description: MaMO through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/mamo
+-
+    namespace_prefix: eo
+    provider_prefix: 
+    description: Plant Environment Ontology through Gramene
+    homepage: http://archive.gramene.org/db/ontology/search_term?id=EO:0007359
+-
+    namespace_prefix: eo
+    provider_prefix: 
+    description: Plant Environment Ontology through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/PECO
+-
+    namespace_prefix: eo
+    provider_prefix: 
+    description: Plant Environment Ontology through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/eo
+-
+    namespace_prefix: idot
+    provider_prefix: 
+    description: IdoT via biomodels.net
+    homepage: http://identifiers.org/
+-
+    namespace_prefix: hgnc.family
+    provider_prefix: 
+    description: HGNC Family at HUGO Genome Nomenclature Committee
+    homepage: http://www.genenames.org/
+-
+    namespace_prefix: yeastintron
+    provider_prefix: 
+    description: Yeast Intron Database version 4.3 at Baskin School of Engineering
+    homepage: http://intron.ucsc.edu/yeast4.3/
+-
+    namespace_prefix: ardb
+    provider_prefix: 
+    description: ARDB at University of Maryland
+    homepage: http://ardb.cbcb.umd.edu/
+-
+    namespace_prefix: proteomicsdb.protein
+    provider_prefix: 
+    description: Proteomics DB Protein at Center for Integrated Protein Science
+    homepage: https://www.proteomicsdb.org/#human
+-
+    namespace_prefix: proteomicsdb.peptide
+    provider_prefix: 
+    description: Proteomics DB Peptide at Center for Integrated Protein Science
+    homepage: https://www.proteomicsdb.org/#peptideSearch
+-
+    namespace_prefix: hpm.protein
+    provider_prefix: 
+    description: Human Proteome Map Protein at Institute of Bioinformatics (Bangalore)
+    homepage: http://www.humanproteomemap.org/index.php
+-
+    namespace_prefix: hpm.peptide
+    provider_prefix: 
+    description: Human Proteome Map Peptide at Institute of Bioinformatics (Bangalore)
+    homepage: http://www.humanproteomemap.org/index.php
+-
+    namespace_prefix: drugbankv4.target
+    provider_prefix: 
+    description: DrugBank Target information version 4
+    homepage: http://www.drugbank.ca/targets
+-
+    namespace_prefix: zinc
+    provider_prefix: 
+    description: ZINC at University of California (San Francisco)
+    homepage: http://zinc15.docking.org/
+-
+    namespace_prefix: foodb.compound
+    provider_prefix: 
+    description: FooDB database of food additives at University of Alberta
+    homepage: http://foodb.ca/foods
+-
+    namespace_prefix: unii
+    provider_prefix: 
+    description: UNII at U.S. Food and Drug Administration
+    homepage: http://fdasis.nlm.nih.gov/srs/
+-
+    namespace_prefix: orphanet.ordo
+    provider_prefix: 
+    description: ORDO via OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/ordo
+-
+    namespace_prefix: psipar
+    provider_prefix: 
+    description: Protein Affinity Reagents through OLS
+    homepage: http://www.ebi.ac.uk/ontology-lookup/browse.do?ontName=PAR
+-
+    namespace_prefix: clinvar.record
+    provider_prefix: 
+    description: ClinVar Record at NCBI
+    homepage: http://www.ncbi.nlm.nih.gov/clinvar/
+-
+    namespace_prefix: ebimetagenomics.proj
+    provider_prefix: 
+    description: EBI metagenomics projects at EBI
+    homepage: https://www.ebi.ac.uk/metagenomics
+-
+    namespace_prefix: euclinicaltrials
+    provider_prefix: 
+    description: EU Clinical Trials at  European Medicines Agency
+    homepage: https://www.clinicaltrialsregister.eu/
+-
+    namespace_prefix: google.patent
+    provider_prefix: 
+    description: Google Patents at Google
+    homepage: https://www.google.com/patents/
+-
+    namespace_prefix: uspto
+    provider_prefix: 
+    description: USPTO patents at USPTO
+    homepage: http://patft.uspto.gov/netahtml/PTO/index.html
+-
+    namespace_prefix: cpc
+    provider_prefix: 
+    description: Cooperative Patent Classification at Espace
+    homepage: http://worldwide.espacenet.com/classification
+-
+    namespace_prefix: gwascentral.study
+    provider_prefix: 
+    description: GWAS Central Study at University of Leicester
+    homepage: http://www.gwascentral.org/studies
+-
+    namespace_prefix: exac.variant
+    provider_prefix: 
+    description: ExAC Variant at Exome Aggregation Consortium
+    homepage: http://exac.broadinstitute.org/
+-
+    namespace_prefix: gwascentral.marker
+    provider_prefix: 
+    description: GWAS Central Marker at University of Leicester
+    homepage: http://www.gwascentral.org/markers/
+-
+    namespace_prefix: gwascentral.phenotype
+    provider_prefix: 
+    description: GWAS Central Phenotype at University of Leicester
+    homepage: http://www.gwascentral.org/phenotypes
+-
+    namespace_prefix: lincs.cell
+    provider_prefix: 
+    description: LINCS Cell at Harvard Medical School
+    homepage: http://lincs.hms.harvard.edu/db/cells/
+-
+    namespace_prefix: lincs.protein
+    provider_prefix: 
+    description: LINCS Protein at Harvard Medical School
+    homepage: http://lincs.hms.harvard.edu/db/proteins/
+-
+    namespace_prefix: lincs.molecule
+    provider_prefix: 
+    description: LINCS Molecule at Harvard Medical School
+    homepage: http://lincs.hms.harvard.edu/db/sm/
+-
+    namespace_prefix: exac.transcript
+    provider_prefix: 
+    description: ExAC Transcript at Exome Aggregation Consortium
+    homepage: http://exac.broadinstitute.org/
+-
+    namespace_prefix: exac.gene
+    provider_prefix: 
+    description: ExAC Gene at Exome Aggregation Consortium
+    homepage: http://exac.broadinstitute.org/
+-
+    namespace_prefix: wikidata
+    provider_prefix: 
+    description: Wikidata at Wikimedia Foundation
+    homepage: https://www.wikidata.org/
+-
+    namespace_prefix: swisslipid
+    provider_prefix: 
+    description: SwissLipids at Swiss Institute of Bioinformatics
+    homepage: http://www.swisslipids.org/#/
+-
+    namespace_prefix: unipathway.compound
+    provider_prefix: 
+    description: UniPathway Compound at Swiss Institute of Bioinformatics (SIB)
+    homepage: http://www.grenoble.prabi.fr/obiwarehouse/unipathway
+-
+    namespace_prefix: seed
+    provider_prefix: 
+    description: SEED Subsystem at Argonne National Laboratory
+    homepage: http://seed-viewer.theseed.org/seedviewer.cgi
+-
+    namespace_prefix: seed.compound
+    provider_prefix: 
+    description: SEED Compound at Argonne National Laboratory
+    homepage: http://seed-viewer.theseed.org/seedviewer.cgi?page=Home
+-
+    namespace_prefix: bigg.model
+    provider_prefix: 
+    description: BiGG Model at University of California
+    homepage: http://bigg.ucsd.edu/models
+-
+    namespace_prefix: bigg.compartment
+    provider_prefix: 
+    description: BiGG Compartment at University of California
+    homepage: http://bigg.ucsd.edu/compartments/
+-
+    namespace_prefix: bigg.metabolite
+    provider_prefix: 
+    description: BiGG Metabolite at University of Cakifornia
+    homepage: http://bigg.ucsd.edu/universal/metabolites
+-
+    namespace_prefix: bigg.reaction
+    provider_prefix: 
+    description: BiGG Reaction at University of California
+    homepage: http://bigg.ucsd.edu/universal/reactions
+-
+    namespace_prefix: rrid
+    provider_prefix: 
+    description: RRID at SciCrunch
+    homepage: https://scicrunch.org/resolver
+-
+    namespace_prefix: umls
+    provider_prefix: 
+    description: Unified Medical Language System at LinkedLifeData
+    homepage: http://linkedlifedata.com/
+-
+    namespace_prefix: mesh
+    provider_prefix: 
+    description: MeSH Linked Data at National Library of Medicine
+    homepage: http://id.nlm.nih.gov/mesh/
+-
+    namespace_prefix: emdb
+    provider_prefix: 
+    description: EMDB at Protein Data Bank in Europe
+    homepage: http://www.ebi.ac.uk/pdbe/emdb/
+-
+    namespace_prefix: mirtarbase
+    provider_prefix: 
+    description: miRTarBase at National Chiao Tung University
+    homepage: http://mirtarbase.mbc.nctu.edu.tw/
+-
+    namespace_prefix: meddra
+    provider_prefix: 
+    description: MedDRA through BioPortal
+    homepage: http://bioportal.bioontology.org/ontologies/MEDDRA
+-
+    namespace_prefix: dashr
+    provider_prefix: 
+    description: DASHR at  University of Pennsylvania
+    homepage: http://lisanwanglab.org/DASHR/
+-
+    namespace_prefix: dashr.expression
+    provider_prefix: 
+    description: DASHR expression at University of Pennsylvania
+    homepage: http://lisanwanglab.org/DASHR/show-expression-table.php?start=0
+-
+    namespace_prefix: splash
+    provider_prefix: 
+    description: Mass Bank of North America (MoNA)
+    homepage: http://mona.fiehnlab.ucdavis.edu/
+-
+    namespace_prefix: metanetx.chemical
+    provider_prefix: 
+    description: MetaNetX chemical at SIB Swiss Institute of Bioinformatics
+    homepage: http://metanetx.org/
+-
+    namespace_prefix: metanetx.reaction
+    provider_prefix: 
+    description: MetaNetX reaction at SIB Swiss Institute of Bioinformatics
+    homepage: http://metanetx.org/
+-
+    namespace_prefix: metanetx.compartment
+    provider_prefix: 
+    description: MetaNetX compartment at SIB Swiss Institute of Bioinformatics
+    homepage: http://metanetx.org/
+-
+    namespace_prefix: unipathway.reaction
+    provider_prefix: 
+    description: UniPathway Reaction at Swiss Institute of Bioinformatics (SIB)
+    homepage: http://www.grenoble.prabi.fr/obiwarehouse/unipathway
+-
+    namespace_prefix: hp
+    provider_prefix: 
+    description: Human Phenotype Ontology at Institute for Medical Genetics and Human Genetics
+    homepage: http://human-phenotype-ontology.github.io/
+-
+    namespace_prefix: hp
+    provider_prefix: 
+    description: Human Phenotype Ontology through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/hp
+-
+    namespace_prefix: sasbdb
+    provider_prefix: 
+    description: SASBDB at European Molecular Biology Laboratory
+    homepage: http://www.sasbdb.org/
+-
+    namespace_prefix: hgnc.genefamily
+    provider_prefix: 
+    description: HGNC gene family at HUGO Genome Nomenclature Committee
+    homepage: http://www.genenames.org/
+-
+    namespace_prefix: mdm
+    provider_prefix: 
+    description: MDM at University of Muenster
+    homepage: https://medical-data-models.org/
+-
+    namespace_prefix: probonto
+    provider_prefix: 
+    description: ProbOnto through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/probonto
+-
+    namespace_prefix: apid.interactions
+    provider_prefix: 
+    description: APID at Salamanca
+    homepage: http://cicblade.dep.usal.es:8080/APID/
+-
+    namespace_prefix: storedb
+    provider_prefix: 
+    description: STOREDB at University of Cambridge
+    homepage: https://www.storedb.org/
+-
+    namespace_prefix: kegg
+    provider_prefix: 
+    description: KEGG at Kyoto University Bioinformatics Center
+    homepage: http://www.kegg.jp/
+-
+    namespace_prefix: planttfdb
+    provider_prefix: 
+    description: PlantTFDB at Peking University
+    homepage: http://planttfdb.cbi.pku.edu.cn
+-
+    namespace_prefix: mp
+    provider_prefix: 
+    description: Mammalian Phenotype Ontology at The Jackson Lab
+    homepage: http://www.informatics.jax.org/
+-
+    namespace_prefix: mp
+    provider_prefix: ols
+    description: Mammalian Phenotype Ontology through OLS
+    homepage: http://www.ebi.ac.uk/ols/ontologies/mp/
+-
+    namespace_prefix: mp
+    provider_prefix: bptl
+    description: Mammalian Phenotype Ontology through BioPortal
+    homepage: https://bioportal.bioontology.org/ontologies/MP
