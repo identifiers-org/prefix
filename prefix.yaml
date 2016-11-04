@@ -226,7 +226,7 @@
     homepage: http://www.pdb.org/
 -
     namespace_prefix: pdb
-    provider_prefix: ebi
+    provider_prefix: pdbe
     description: Protein Databank in Europe (PDBe)
     homepage: http://www.pdbe.org/
 -
@@ -236,12 +236,12 @@
     homepage: http://www.proteopedia.org/
 -
     namespace_prefix: pdb
-    provider_prefix: 
+    provider_prefix: pdbj
     description: Protein Data Bank Japan (PDBj)
     homepage: http://www.pdbj.org/
 -
     namespace_prefix: pdb
-    provider_prefix: pdbj
+    provider_prefix: 
     description: Protein Databank through PDBsum
     homepage: http://www.ebi.ac.uk/pdbsum/
 -
