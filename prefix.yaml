@@ -1817,8 +1817,8 @@
 
 - namespace: igsn
   title: International Geo Sample Number
-  redirect: doi.org/10.$id
-  test: 10273
+  redirect: http://hdl.handle.net/10273/$id
+  test: SSH000SUA
   more: http://www.geosamples.org/
 
 - namespace: imex
